@@ -1,4 +1,4 @@
-# Modifier cette fiche
+# Ajouter une phrase à cette fiche
 
 Tu vois le bouton "éditer" en haut à gauche de la fiche?
 C'est le logo avec un un crayon.

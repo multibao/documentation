@@ -1,6 +1,6 @@
-# Je suis prêt !
+# Je modifie des fiches ou propose mes modifications
 
-> Tu sais éditer une fiche, ajouter des paragraphes, écrire en gras, en italique. Tu peux maintenir intervenir sur *toutes* les ressources de multiBàO.
+> Tu sais naviguer sur multibàO, éditer une fiche, ajouter des paragraphes, écrire en gras, en italique. Tu peux maintenir intervenir sur *toutes* les ressources de multiBàO.
 
 **Q**: Donc si je me promène sur n'importe quelle fiche et que je veux ajouter quelque chose, je peux le faire?
 **R**: Oui. Et il y a deux cas de figure:
@@ -12,4 +12,4 @@
  * modifier toutes les fiches de ce dépôt de fiches
  * proposer des modifications sur toutes les fiches de multiBàO
 
-On t'apprendra plus loin comment obtenir un accès contributeur qui te permettra de rejoindre d'autres individus qui gèrent des dossiers de fiches. 
+Comment et pourquoi obtenir un accès contributeur à un dépôt de fiches ou à une organisation, c'est le Ready3.

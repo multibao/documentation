@@ -31,9 +31,8 @@ Vous avez deux possibilités:
 
 On va plutôt opter pour le 1er ;). 
 
-Vous aller copier l'intégralité du dépôt de fiches *Je me teste* sur votre organisation.
-L'adresse multiBàO de ce dépôt de fiches est: http://www.multibao.org/multibao/jemeteste
-L'adresse github de ce dépôt de fiches est: http://www.github.com/multibao/jemeteste. Rendez vous y. 
+Vous aller copier l'intégralité du dépôt de fiches http://github.com/multibao/modele_de_depot sur votre organisation.
+Allez sur http://github.com/multibao/modele_de_depot
 En haut à droite de l'écran, il y a un bouton qui s'appelle Fork. Fork signifie que vous allez copier-coller intégralement et légamenet ce dépot de fiches dans votre organisation pour pouvoir le réadapter à votre sauce.
 Cliquez sur le bouton *Fork*. 
 Github vous demande alors où vous souhaitez déposer ce dossier de fiches.
@@ -48,4 +47,4 @@ Bienvenue à votre organisation sur multiBàO.
 Les fonctionnalités de multiBàO sont ouvertes à vos ressources.
 Le dépôt de fiches que vous venez de "forker"/dupliquer contient toutes les ressources nécessaires pour apprendre à créer des fiches, inviter du monde, suivre les contributions, recevoir des contributions des autres réseaux.
 
-**Pas de Readmy 4**, toutes les autres ressources sont sur votre nouveau dépôt de fiches. 
+**Pas de Readmy 4**, la documentation qui nous semble nécessaire est sur votre nouveau dépôt de fiches. 

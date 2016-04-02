@@ -13,5 +13,3 @@
  * proposer des modifications sur toutes les fiches de multiBàO
 
 On t'apprendra plus loin comment obtenir un accès contributeur qui te permettra de rejoindre d'autres individus qui gèrent des dossiers de fiches. 
-
-Dans la partie supérieure de l'écran, il y a un lien qui te permet de naviguer vers la page précédente. J'aimerai que tu cliques dessus. 

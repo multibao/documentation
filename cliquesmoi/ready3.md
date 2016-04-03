@@ -6,6 +6,10 @@ Durée de l'étape: 15 minutes.
 
 Je me rends sur http://github.com, un hébergement gratuit de sites webs au codes libres. 
 Je cliques sur le bouton vert en haut à droite *Sign Up*
+
+> l se peut que je sois encore connecté avec l'utilisateur *Anonyme* qui m'a été proposé dans le test1.
+A ce moment, je cliques dans la partie haute droite de l'écran sur le logo utilisateur (une image avec une flêche vers le bas) et je valide *Sign Out* pour me déconnecter.
+
 Je choisis un nom d'utilisateur, j'indique mon e-mail, je choisis un mot de passe et je valide.
 Je choisis le plan *Free*. Je coche *Set up an organization*. Et je valide. 
 Rendez vous sur votre boîte e-mail pour validez votre inscription. 

@@ -52,4 +52,4 @@ Bienvenue à votre organisation sur multiBàO.
 Les fonctionnalités de multiBàO sont ouvertes à vos ressources.
 Le dépôt de fiches que vous venez de "forker"/dupliquer contient toutes les ressources nécessaires pour apprendre à créer des fiches, inviter du monde, suivre les contributions, recevoir des contributions des autres réseaux.
 
-**Pas de Ready 4**, la documentation qui nous semble nécessaire est sur votre nouveau dépôt de fiches.
+**Pas de Ready 4**, la documentation qui nous semble nécessaire est sur votre nouveau dépôt de fiches. Pour écrire vos fiches, vous pouvez directement les modifier dans ce dépôt, ou bien les supprimer et en créer d'autres. Sachez que vous pouvez toujours les retrouver dans http://github/multibao/modele_de_depot.

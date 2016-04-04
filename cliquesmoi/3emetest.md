@@ -17,3 +17,6 @@ Il existe plusieurs dénominations de ce sport à travers le monde : ping pang q
 
 Ce terme est plutôt utilisé pour désigner le jeu de loisirs, alors que le terme de tennis de table est plutôt utilisé pour désigner la pratique sportive ; malgré tout, un pratiquant de ce sport, y compris en compétition, s'appelle toujours un « pongiste ».
 
+## Mon introduction
+
+Ceci est mon introduction.

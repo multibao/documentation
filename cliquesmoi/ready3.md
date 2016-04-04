@@ -52,4 +52,4 @@ Bienvenue à votre organisation sur multiBàO.
 Les fonctionnalités de multiBàO sont ouvertes à vos ressources.
 Le dépôt de fiches que vous venez de "forker"/dupliquer contient toutes les ressources nécessaires pour apprendre à créer des fiches, inviter du monde, suivre les contributions, recevoir des contributions des autres réseaux.
 
-**Pas de Readmy 4**, la documentation qui nous semble nécessaire est sur votre nouveau dépôt de fiches.
+**Pas de Ready 4**, la documentation qui nous semble nécessaire est sur votre nouveau dépôt de fiches.

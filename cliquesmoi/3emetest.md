@@ -1,9 +1,9 @@
 #J'écris des titres. Le Tennis de table
 
-Pour l'exercice, regardes la structure du texte avec ses titres.
-Ouvres l'éditeur. 
-A la suite du texte, ajoutes un titre du même niveau que "introduction" et une courte phrase.
-Enregistres ta modification et observes là sur multiBàO.
+Pour l'exercice, regarde la structure du texte avec ses titres.
+Ouvre l'éditeur. 
+A la suite du texte, ajoute un titre du même niveau que "introduction" et une courte phrase.
+Enregistre ta modification et observe là sur multiBàO.
 
 ## Introduction
 

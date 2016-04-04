@@ -20,7 +20,7 @@ Durée de l'étape: 6 minutes
 
 Sur multiBàO, les dépôts de fiches sont entretenus par plusieurs personnes. 
 Une organisation, c'est une possibilité pour vous que plusieurs personnes prennent soin de vos fiches. 
-Pour créer une organisation, clique sur le + à côté de ton logo utilisateur (en haut à droite), puis clique sur "New organization".
+Pour créer une organisation, cliquez sur le + à côté de votre logo utilisateur (en haut à droite), puis cliquez sur "New organization".
 Comme test, donnez le nom que vous souhaitez à votre organisation (vous pourrez toujours le changer), indiquez votre e-mail et choisissez "Opensource". Puis validez.
 Dans l'étape d'après, vous avez la possibilité d'inviter des nouveaux membres à votre organisation. 
 Puis cliquez sur "Finish"

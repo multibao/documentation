@@ -11,9 +11,9 @@ Je me sens normal.
 ###Exercice
 
 Dans la phrase ci dessous:
-Le Mystère du lapin-garou est un film britannique d'animation à base de pâte à modeler réalisé par Nick Park et Steve Box à Bristol.
+**Le Mystère du lapin-garou** est un film britannique d'animation à base de pâte à modeler réalisé par *Nick Park et Steve Box* à Bristol.
 
 Mets en italique: Nick Park & Steve Box
 Mets en gras: Le Mystère du lapin-garo
 
-Enregistres ta fiche et consultes là sur multiBàO. 
+Enregistres ta fiche et consultes là sur multiBàO.

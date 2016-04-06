@@ -24,13 +24,14 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 **Gérer votre dépôt de fiches**
 
 * créer un dépôt de fiches
-* créer dans ce dépôt un ou plusieurs dossiers
 * définir l'architecture du dépot de fiches
+* créer dans ce dépôt un ou plusieurs dossiers
 * droits d'accès et animation
  * choisir les collaborateurs
  * gérer les droits de modification
+* modifier l'apparence de mon dépôt de fiches
 * le choix de la licence sous laquelle je publie le contenu
-* accepter une proposition de modification de fiche
+* recevoir et accepter une proposition de modification de fiche
 
 > Pour l'écriture de votre nom d'utilisateur ou d'organisation, de dépôt de fiches, ou encore de nom de fiche, merci de consulter attentivement la charte de nommage. 
 

@@ -1,12 +1,13 @@
 # Choisir une licence libre 
 
-Pour pouvoir partager mes contenus, j'ai besoin que mes contenus soient publiés sous une licence libre. Cette licence va enrichir mes droits d'auteurs et autoriser les autres utilisateurs à réutiliser mes contenus. Il existe de nombreuses licences libres. Cette documentation est là pour vous aider à en choisir une.
+On ne peut pas partager ses ressources sur multiBàO ... et en même temps les publier sous copyright.
+Les licences libres enrichissent vos droits d'auteur.
+Tout contributeur utilise sur multibao une ou plusieures licences libres pour publier ses contenus.
+Si certaines licences libres autorisent les modifications, même à titre commercial, d'autres plus restreignantes n'autorisent que leur diffusion. 
 
-Pour qu'une ressource soit reconnue sous licence libre, il suffit ... de l'indiquer.
+## Comment faire pour libérer vos œuvres ?
 
-Exemple: 
-
-> Cette fiche est publiée par Thomas Wolff selon les termes de la licence Creative Commons BY-SA.
+Choisissez la licence qui vous convient le mieux et indiquez simplement, quelque part dans votre document, vos références, la licence, ainsi qu'un lien vers la licence en question. Par exemple : Thomas Wolff — Document libre sous licence CC by-sa — http://creativecommons.org/licenses/by-sa/2.0/fr/ 
 
 ## De base: on vous propose des licences Creative Commons
 
@@ -16,3 +17,10 @@ Vous pouvez spécifier le niveau de restriction que vous souhaitez imposer à vo
 **Creative Commons expliqué en 2 minutes en vidéo? C'est ci dessous.**
 
 <iframe src="https://player.vimeo.com/video/95488932" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Aller plus loin: pourquoi adopter des licences libres
+
+Lire l'article d'[April](Pourquoi adopter une licence libre ?). 
+
+
+

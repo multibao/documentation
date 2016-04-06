@@ -16,7 +16,8 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 ### Utiliser l'éditeur sur multiBàO 
 
 * Rendez vous sur la fiche multiBàO que vous souhaitez modifier
-* Cliquez sur le logo <img src="/assets/images/help/repository/edit-file-edit-button.png" alt="Edit file button">, visible dans la partie haute gauche de la fiche
+* Cliquez sur le logo éditeur, visible dans la partie haute gauche de la fiche
+![éditeur](https://framapic.org/tmnZlGFmc1PC/lPMGxuPbLWre.png)
 * La page de l'éditeur s'ouvre
 ![vision](https://framapic.org/761Pgp9D5rTf/lZIAbUohes1v.png)
 * Réaliser les changements souhaités
@@ -35,6 +36,3 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 * Avant de sauvegarder, expliquer dans "commit" les changements que vous avez réalisé. 
 ![commit](https://help.github.com/assets/images/help/repository/write-commit-message-quick-pull.png)
 * Sauvegardez en cliquant sur "commit this file"
-
-
-

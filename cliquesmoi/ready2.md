@@ -13,5 +13,6 @@
  * proposer des modifications sur toutes les fiches de multiBàO
 Si tu souhaites juste pouvoir modifier des fiches, ce compte anonyme est suffisant. A toi de jouer!
 
-**Q**: J'aimerais aller plus loin, et publier mes propres fiches sur multiBàO.
-**R**: Dans ce cas, tu peux te rendre au Ready3 pour apprendre comment obtenir un accès contributeur à un dépôt de fiches ou à une organisation.
+**Q**: Mais alors, à quoi sert un compte multiBàO?
+**R**: MultiBàO peut te servir de visionneuse de documents. Si tu souhaites stocker des ressources sur le web simplement et les partager avec d'autres personnes, c'est possible. Tu bénéficies même de l'éditeur, comme ça d'autres personnes peuvent modifier tes ressources!
+Pour faire cela, tu auras besoin d'un compte utilisateur. Ca t'intéresse? Rends-toi au Ready3!

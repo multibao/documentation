@@ -13,8 +13,10 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 
 **Créer du contenu**
 
-* créer son compte et/ou s'authentifier
-* créer une fiche
+* [créer son compte utilisateur](https://github.com/join)
+* [s'authentifier]
+* [créer une fiche](https://github.com/multibao/jemeteste/blob/master/fiches/creer_fiche_multibao.md)
+* respecter la [charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
 
 **Décrire une fiche, un dossier ou un dépôt**
 
@@ -23,16 +25,15 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 
 **Gérer votre dépôt de fiches**
 
+* respecter la [charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
 * créer un dépôt de fiches
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers
-* choisir ses collaborateurs
+* [choisir ses collaborateurs](https://github.com/multibao/jemeteste/blob/master/fiches/choisir_ses_collaborateurs.md)
 * gérer les droits de modification du dépôt
 * modifier l'apparence de mon dépôt de fiches
 * le choix de la licence sous laquelle je publie le contenu
 * recevoir et accepter une proposition de modification de fiche
-
-> Pour l'écriture de votre nom d'utilisateur ou d'organisation, de dépôt de fiches, ou encore de nom de fiche, merci de consulter attentivement la charte de nommage. 
 
 **Interagir avec les autres organisations**
 
@@ -41,13 +42,12 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 
 **Connecter mon dépôt de fiches à multiBàO**
 
-* les critères qui font que vous pouvez faire apparaître votre dépôt de fiches sur multiBàO
-* faire apparaître mon dépôt de fiches sur multibao.org
+* [les critères qui font que vous pouvez faire apparaître votre dépôt de fiches sur multiBàO](https://github.com/multibao/jemeteste/blob/master/fiches/criteres_depot_multibao.md)
+* [faire apparaître mon dépôt de fiches sur multibao.org](https://github.com/multibao/jemeteste/blob/master/fiches/connecter_depot_multibao.md)
 
 **Intégrer du contenu à mon site web**
 
 * intégrer une fiche de multiBàO à mon site web
-* installer une instance multiBàO sur mon site
 
 **Installer et réutiliser multiBàO pour un autre usage**
 

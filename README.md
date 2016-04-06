@@ -15,7 +15,7 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 * [créer son compte utilisateur](https://github.com/join)
 * s'authentifier
 * [créer une fiche](https://github.com/multibao/jemeteste/blob/master/fiches/creer_fiche_multibao.md)
- * [respecter la charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
+* [respecter la charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
 
 **Décrire une fiche, un dossier ou un dépôt**
 
@@ -25,7 +25,7 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 **Gérer votre dépôt de fiches**
 
 * créer un dépôt de fiches
- * respecter la [charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
+* respecter la [charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers
 * [choisir ses collaborateurs](https://github.com/multibao/jemeteste/blob/master/fiches/choisir_ses_collaborateurs.md)

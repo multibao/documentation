@@ -12,7 +12,7 @@ Clique sur le bouton vert en haut à droite *Sign Up*
 Dans ce cas, clique dans la partie haute droite de l'écran sur le logo utilisateur (une image avec une flèche vers le bas) et valide *Sign Out* pour te déconnecter.
 
 Choisis un nom d'utilisateur, indique ton e-mail, choisis un mot de passe et valide.
-Choisis le plan *Free*. Coche *Set up an organization*. Valide et rends-toi sur ta boîte e-mail pour valider ton inscription. Tu es désormais inscrit!
+Choisis le plan *Free*. Coche *Set up an organization*. Valide et rends-toi sur ta boîte e-mail pour valider ton inscription. Tu es désormais inscrit-e!
 
 ## Organisations, dépôts, fiches
 

@@ -20,37 +20,42 @@
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * indiquer les meta-datas de votre fiche: titre, description de la fiche, tags
 
-**Gérer votre dépôt de fiches**
-
-* [créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
-* [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
-* [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
-* décrire votre dépôt de fiches avec le README.md
-* définir l'architecture du dépot de fiches
-* créer dans ce dépôt un ou plusieurs dossiers
-* [choisir ses collaborateurs](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
-* [gérer les droits de modification du dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
-* modifier l'apparence de mon dépôt de fiches
-* [choisir la licence libre sous laquelle je publie mon contenu](http://multibao.org/multibao/documentation/fiches/choisir_licence_libre.md)
-* recevoir et accepter une proposition de modification de fiche
-
 **Interagir avec les autres organisations**
 
 * envoyer des propositions de modification
-* demander un accès contributeur
+* demander un accès contributeur à un dépôt de fiches
+
+**Créer un dépôt de fiches**
+
+* [pré-requis: respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
+* [créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
+* [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
+* [choisir la licence libre sous laquelle je publie mon contenu](http://multibao.org/multibao/documentation/fiches/choisir_licence_libre.md)
+
+**Gérer un dépôt de fiches**
+
+* [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
+* définir l'utilité souhaitée d'un dépôt de fiches pour définir son architecture
+* créer des dossiers et des sous-dossiers
+* [décrire aux lecteurs son dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
+* modifier l'apparence de mon dépôt de fiches
+* [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
+* recevoir et accepter/refuser une proposition de modification de fiche
 
 **Connecter mon dépôt de fiches à multiBàO**
 
 * [les critères qui font que vous pouvez faire apparaître votre dépôt de fiches sur multiBàO](http://multibao.org/multibao/documentation/fiches/criteres_depot_multibao.md)
 * [faire apparaître mon dépôt de fiches sur multibao.org](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md)
 
-**Intégrer du contenu à mon site web**
+**Intégrer une fiche multiBàO dans mon site web**
 
-* intégrer une fiche de multiBàO à mon site web
+* intégrer dans mon site web une ressource multiBàO qui sera mise à jour automatiquement
+* choisir la mise en page
 
 **Installer et réutiliser multiBàO pour un autre usage**
 
-* installer multiBàO sur mon serveur local
+* [installer multiBàO sur mon serveur local](https://github.com/multibao/site)
+* [réutiliser la technologie pour d'autres usages](https://github.com/multibao/site)
 
 ---
 

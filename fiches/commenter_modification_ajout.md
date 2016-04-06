@@ -27,4 +27,5 @@ C'est en bas de page, juste avant de valider vos modifications.
 
 C'est sur le coté droit, juste avant de valider vos modifications. 
 
-![commit prose](https://framapic.org/D91XmrLdOSkm/NNFhqjtGvui9.png)
+![commitprose](https://framapic.org/D91XmrLdOSkm/NNFhqjtGvui9.png)
+

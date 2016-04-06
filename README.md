@@ -27,6 +27,7 @@
 **Gérer votre dépôt de fiches**
 
 * [créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
+* [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers

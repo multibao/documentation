@@ -15,4 +15,4 @@ Si tu souhaites juste pouvoir modifier des fiches, ce compte anonyme est suffisa
 
 **Q**: Mais alors, à quoi sert un compte multiBàO?
 **R**: MultiBàO peut te servir de visionneuse de documents. Si tu souhaites stocker des ressources sur le web simplement et les partager avec d'autres personnes, c'est possible. Tu bénéficies même de l'éditeur, comme ça d'autres personnes peuvent modifier tes ressources!
-Pour faire cela, tu auras besoin d'un compte utilisateur. Ca t'intéresse? Rends-toi au Ready3!
+Pour faire cela, tu auras besoin d'un compte utilisateur. Ca t'intéresse? Rends-toi au Ready2!

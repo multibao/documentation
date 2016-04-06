@@ -30,7 +30,7 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 ### Utiliser l'éditeur de github.com
 
 * Ouvrir le fichier que vous souhaitez modifier sur github.com 
-* Dans la partie droite du fichier, cliquer sur le logo <img src="/assets/images/help/repository/edit-file-edit-button.png" alt="Edit file button">
+* Dans la partie droite du fichier, cliquer sur le logo éditer.
 ![editer](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 * Réaliser les changements souhaités
 * Avant de sauvegarder, expliquer dans "commit" les changements que vous avez réalisé. 

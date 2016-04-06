@@ -18,17 +18,14 @@
 * s'authentifier
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
-
-**Décrire une fiche, un dossier ou un dépôt**
-
 * indiquer les meta-datas de votre fiche: titre, description de la fiche, tags
-* comment décrire votre dépôt de fiches avec le README.md
 
 **Gérer votre dépôt de fiches**
 
 * [créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
 * [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
+* décrire votre dépôt de fiches avec le README.md
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers
 * [choisir ses collaborateurs](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)

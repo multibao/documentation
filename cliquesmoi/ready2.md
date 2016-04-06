@@ -12,4 +12,4 @@
  * modifier toutes les fiches de ce dépôt de fiches
  * proposer des modifications sur toutes les fiches de multiBàO
 
-Comment et pourquoi obtenir un accès contributeur à un dépôt de fiches ou à une organisation, c'est le Ready3.
+Pourquoi et comment obtenir un accès contributeur à un dépôt de fiches ou à une organisation ? C'est ce que nous voyons dans le Ready3.

@@ -24,12 +24,12 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 
 **Gérer votre dépôt de fiches**
 
-* créer un dépôt de fiches
-* respecter la [charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
+* [créer un dépôt de fiches](https://github.com/multibao/jemeteste/blob/master/fiches/creer_depot_fiches.md)
+* [respecter la charte de nommage](https://github.com/multibao/jemeteste/blob/master/fiches/charte_de_nommage.md)
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers
 * [choisir ses collaborateurs](https://github.com/multibao/jemeteste/blob/master/fiches/choisir_ses_collaborateurs.md)
-* gérer les droits de modification du dépôt
+* [gérer les droits de modification du dépôt](
 * modifier l'apparence de mon dépôt de fiches
 * le choix de la licence sous laquelle je publie le contenu
 * recevoir et accepter une proposition de modification de fiche

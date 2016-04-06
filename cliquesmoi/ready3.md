@@ -4,15 +4,15 @@
 
 Durée de l'étape: 15 minutes.
 
-Rends-toi sur http://github.com, un hébergement gratuit de sites web aux codes libres. 
+MultiBàO est hébergé sur GitHub, un hébergeur gratuit de sites web aux codes libres.
+Pour te créer un compte utilisateur, rends-toi donc sur http://github.com.
 Clique sur le bouton vert en haut à droite *Sign Up*
 
 > Il se peut que tu sois encore connecté avec l'utilisateur *Anonyme* qui t'a été proposé dans le test1.
 Dans ce cas, clique dans la partie haute droite de l'écran sur le logo utilisateur (une image avec une flèche vers le bas) et valide *Sign Out* pour te déconnecter.
 
-Choisis un nom d'utilisateur, indique mon e-mail, choisis un mot de passe et valide.
-Choisis le plan *Free*. Coche *Set up an organization*. Et valide. 
-Rends-toi sur ta boîte e-mail pour valider ton inscription. 
+Choisis un nom d'utilisateur, indique ton e-mail, choisis un mot de passe et valide.
+Choisis le plan *Free*. Coche *Set up an organization*. Valide et rends-toi sur ta boîte e-mail pour valider ton inscription. Tu es désormais inscrit!
 
 ## La création d'une organisation
 

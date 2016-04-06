@@ -1,6 +1,6 @@
 # Choisir une licence libre 
 
-> Pour pouvoir partager mes contenus, j'ai besoin que mes contenus soient publiés sous une licence libre. Cette licence va enrichir mes droits d'auteurs et autoriser les autres utilisateurs à réutiliser mes contenus. Il existe de nombreuses licences libres. Cette documentation est là pour vous aider à en choisir une.
+Pour pouvoir partager mes contenus, j'ai besoin que mes contenus soient publiés sous une licence libre. Cette licence va enrichir mes droits d'auteurs et autoriser les autres utilisateurs à réutiliser mes contenus. Il existe de nombreuses licences libres. Cette documentation est là pour vous aider à en choisir une.
 
 Pour qu'une ressource soit reconnue sous licence libre, il suffit ... de l'indiquer.
 

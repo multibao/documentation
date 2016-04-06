@@ -16,6 +16,11 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 * créer son compte et/ou s'authentifier
 * créer une fiche
 
+**Décrire une fiche, un dossier ou un dépôt**
+
+* indiquer les *meta-datas* de votre fiche: titre, description de la fiche, tags
+* comment décrire votre dépôt de fiches avec le README.md
+
 **Gérer votre dépôt de fiches**
 
 * créer un dépôt de fiches
@@ -47,7 +52,3 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 **Installer et réutiliser multiBàO pour un autre usage**
 
 * installer multiBàO sur mon serveur local
-
-
-
-

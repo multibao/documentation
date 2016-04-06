@@ -29,7 +29,7 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers
 * [choisir ses collaborateurs](https://github.com/multibao/jemeteste/blob/master/fiches/choisir_ses_collaborateurs.md)
-* [gérer les droits de modification du dépôt](
+* [gérer les droits de modification du dépôt](https://github.com/multibao/jemeteste/blob/master/fiches/gerer_droits_depot.md)
 * modifier l'apparence de mon dépôt de fiches
 * le choix de la licence sous laquelle je publie le contenu
 * recevoir et accepter une proposition de modification de fiche

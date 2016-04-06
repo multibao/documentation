@@ -1,10 +1,11 @@
-#J'écris des titres. Le tennis de table
+# J'écris des titres
 
-Pour l'exercice, regarde la structure du texte avec ses titres.
-Ouvre l'éditeur. 
-A la suite du texte, ajoute un titre du même niveau que "introduction" et une courte phrase.
-Enregistre ta modification et observe là sur multiBàO.
+Observe le texte ci-dessous et les différentes tailles des titres. Puis, ouvre l'éditeur pour comprendre comment ça marche.
+A la suite du texte ci-dessous, tu peux t'entraîner à ajouter tes propres titres.
+Enregistre tes modifications et observe les sur multiBàO.
+______________________
 
+# Le tennis de table
 ## Introduction
 
 Le tennis de table (ou « ping-pong » dans le langage courant) est un sport de raquette opposant deux ou quatre joueurs autour d'une table. Le tennis de table est une activité de loisir, mais c'est aussi un sport olympique depuis 1988.
@@ -16,7 +17,3 @@ Il existe plusieurs dénominations de ce sport à travers le monde : ping pang q
 ### Ping pong ou Tennis de table? 
 
 Ce terme est plutôt utilisé pour désigner le jeu de loisirs, alors que le terme de tennis de table est plutôt utilisé pour désigner la pratique sportive ; malgré tout, un pratiquant de ce sport, y compris en compétition, s'appelle toujours un « pongiste ».
-
-## Mon introduction
-
-Ceci est mon introduction.

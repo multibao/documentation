@@ -31,7 +31,7 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 * [choisir ses collaborateurs](https://github.com/multibao/jemeteste/blob/master/fiches/choisir_ses_collaborateurs.md)
 * [gérer les droits de modification du dépôt](https://github.com/multibao/jemeteste/blob/master/fiches/gerer_droits_depot.md)
 * modifier l'apparence de mon dépôt de fiches
-* le choix de la licence sous laquelle je publie le contenu
+* [choisir la licence libre sous laquelle je publie mon contenu](https://github.com/multibao/jemeteste/blob/master/fiches/choisir_licence_libre.md)
 * recevoir et accepter une proposition de modification de fiche
 
 **Interagir avec les autres organisations**

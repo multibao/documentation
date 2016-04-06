@@ -1,7 +1,5 @@
 # Espace documentation
 
-Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter Thomas Wolff par [mail](mailto:thomas.wolff@cpcoop.fr) ou téléphone (0642459781)
-
 **Vous tester sur multiBàO**
 
 * [commencer le test](http://multibao.org/multibao/documentation/cliquesmoi)
@@ -55,3 +53,7 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 **Installer et réutiliser multiBàO pour un autre usage**
 
 * installer multiBàO sur mon serveur local
+
+---
+
+> Si vous n'avez toujours pas trouvé la réponse à votre question, vous pouvez contacter Thomas Wolff par [mail](mailto:thomas.wolff@cpcoop.fr) ou téléphone (0642459781)

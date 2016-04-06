@@ -5,10 +5,10 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 **Pour commencer: ajouter ou modifier du contenu**
 
 * éditer une page 
- * mettre en forme le texte
- * insérer une image
- * intégrer des éléments d'autres sites
- * créer des notes de bas de page
+* mettre en forme le texte
+* insérer une image
+* intégrer des éléments d'autres sites
+* créer des notes de bas de page
 * expliquer vos modifications
 
 **Créer du contenu**
@@ -26,9 +26,8 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 * créer un dépôt de fiches
 * définir l'architecture du dépot de fiches
 * créer dans ce dépôt un ou plusieurs dossiers
-* droits d'accès et animation
- * choisir les collaborateurs
- * gérer les droits de modification
+* choisir ses collaborateurs
+* gérer les droits de modification du dépôt
 * modifier l'apparence de mon dépôt de fiches
 * le choix de la licence sous laquelle je publie le contenu
 * recevoir et accepter une proposition de modification de fiche

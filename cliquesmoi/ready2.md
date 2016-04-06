@@ -1,4 +1,4 @@
-# Je crée mon compte multiBàO et je me lance
+# Je crée mon compte multiBàO
 
 ## Avoir un compte utilisateur sur multiBàO
 

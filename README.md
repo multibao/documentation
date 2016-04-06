@@ -18,7 +18,7 @@
 * [s'authentifier](http://www.multibao.org/multibao/documentation/fiches/authentification.md)
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
-* indiquer les meta-datas de votre fiche: titre, description de la fiche, tags
+* indiquer les meta-datas de votre fiche
 
 **Interagir avec les autres organisations**
 
@@ -30,7 +30,7 @@
 * [pré-requis: respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * [créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
 * [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
-* [choisir la licence libre sous laquelle je publie mon contenu](http://multibao.org/multibao/documentation/fiches/choisir_licence_libre.md)
+* [choisir une licence libre](http://multibao.org/multibao/documentation/fiches/choisir_licence_libre.md)
 
 **Gérer un dépôt de fiches**
 
@@ -49,7 +49,7 @@
 
 **Intégrer une fiche multiBàO dans mon site web**
 
-* intégrer dans mon site web une ressource multiBàO qui sera mise à jour automatiquement
+* intégrer dans mon site web une ressource multiBàO
 * choisir la mise en page
 
 **Installer et réutiliser multiBàO pour un autre usage**

@@ -2,7 +2,7 @@
 
 Depuis ton dépôt Github, rends toi sur *Settings* puis rends toi dans l'option *Collaborators and Teams*.
 
-![Operation gerer depot]({{site.baseurl}}/fiches/Incorporation.png)
+![Operation gerer depot](https://framapic.org/wBjTlZTpUf63/2bd1GDJKL1WR.png)
 
 Tu as la possibilité de créer des équipes. 
 Pour choisir les collaborateurs à un dépôt de fiches, les inviter via *Collaborators*. Vous pourrez y indiquer les droits de chaque utilisateur.

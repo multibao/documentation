@@ -15,7 +15,7 @@
 **Créer du contenu**
 
 * [créer son compte utilisateur](http://multibao.org/multibao/documentation/fiches/creer_compte.md)
-* s'authentifier
+* [s'authentifier](http://www.multibao.org/multibao/documentation/fiches/authentification.md)
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * indiquer les meta-datas de votre fiche: titre, description de la fiche, tags

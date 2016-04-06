@@ -20,7 +20,7 @@
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * indiquer les meta-datas de votre fiche
 
-**Interagir avec les autres organisations**
+**Interagir avec les autres utilisateurs**
 
 * envoyer des propositions de modification
 * demander un accès contributeur à un dépôt de fiches

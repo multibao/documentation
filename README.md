@@ -17,7 +17,7 @@
 * [créer son compte utilisateur](https://github.com/join)
 * s'authentifier
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
-* [respecter la charte de nommage](http://multibao.org/multibao/documentation/jemeteste/fiches/charte_de_nommage.md)
+* [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 
 **Décrire une fiche, un dossier ou un dépôt**
 

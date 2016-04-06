@@ -14,7 +14,7 @@
 
 **Créer du contenu**
 
-* [créer son compte utilisateur](https://github.com/join)
+* [créer son compte utilisateur](http://multibao.org/multibao/documentation/fiches/creer_compte.md)
 * s'authentifier
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)

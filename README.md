@@ -1,6 +1,6 @@
 # Espace documentation
 
-**Vous tester sur multiBàO**
+**Vous tester**
 
 * [commencer le test](http://multibao.org/multibao/documentation/cliquesmoi)
 

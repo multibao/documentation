@@ -8,7 +8,7 @@ Si vous ne trouvez pas la réponse à votre question ici, vous pouvez contacter 
 * [mettre en forme le texte](https://github.com/multibao/jemeteste/blob/master/fiches/mise_forme_texte.md)
 * [insérer une image](https://github.com/multibao/jemeteste/blob/master/fiches/inserer_image.md)
 * [créer des notes de bas de page](https://github.com/multibao/jemeteste/blob/master/fiches/notes_pied_page.md)
-* expliquer vos modifications
+* [expliquer vos modifications](https://github.com/multibao/jemeteste/blob/master/fiches/gerer_droits_depot.md)
 
 **Créer du contenu**
 

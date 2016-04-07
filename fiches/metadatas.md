@@ -5,3 +5,4 @@ Renseigner les metadatas permet de faire apparaître le titre - la description e
 * Rendez vous sur la fiche multiBàO que vous souhaitez modifier
 * Cliquez sur le logo éditeur, visible dans la partie haute gauche de la fiche
 ![logo](https://framapic.org/tmnZlGFmc1PC/lPMGxuPbLWre.png)
+* La page de l'éditeur s'ouvre

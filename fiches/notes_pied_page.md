@@ -19,7 +19,7 @@ J'insère le code html suivant :
 
 `<a id="note"> <a id="note">`
 
-> On passe en html car le language Markdown n'est pas suffisant pour pouvoir mettre des notes qui renvoient vers les sources. C'est une petite manoeuvre qui sera agréable pour les lecteurs. Louise! 
+> On passe en html car le language Markdown n'est pas suffisant pour pouvoir mettre des notes qui renvoient vers les sources. C'est une petite manoeuvre qui sera agréable pour les lecteurs.
 
 Puis les notes en question :
 

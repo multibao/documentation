@@ -2,12 +2,12 @@
 
 ## C'est quoi une fiche? 
 
-Une feuille numérique sur laquelle on écrits des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par odre chronologique dans des boîtes.
-On y recourt pour trouver des volumes dans la bibliothèque. On s’en sert aussi pour préparer des tables de matières.
+Une feuille numérique sur laquelle on écrit des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par odre chronologique dans des boîtes.
+On y a recours pour trouver des volumes dans la bibliothèque. On s’en sert aussi pour préparer des tables de matières.
 
 ## Deux possibilités pour modifier une fiche
 
-* soit via http://multibao.org son éditeur
+* soit via http://multibao.org par son éditeur
 * soit via http://github.com par son éditeur
 
 Si vous modifiez une fiche sur multibao, elle sera modifiée sur github. Et inversement. 
@@ -23,7 +23,7 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 * Réaliser les changements souhaités
 * Cliquer sur la disquette pour sauvegarder votre contribution
 ![sauvegarde](https://framapic.org/CywnlhlB0hTU/GMFYSDW8w3x6.png)
-* Avant de sauvegarder, décrivez les changements que vous avez réalisé:
+* Avant de sauvegarder, décrivez les changements que vous avez réalisés:
 ![commit](https://framapic.org/tV6vu2QpUJLe/cO2MhRgWIQQk.png)
 * Sauvegarder en cliquant sur "submit change request"
 

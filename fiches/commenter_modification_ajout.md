@@ -1,4 +1,4 @@
-# Commenter sa modification ou votre ajout
+# Commenter votre modification ou votre ajout
 
 * soit lorsque vous éditez votre fiche en utilisant http://github.com
 * soit lorsque vous éditez votre fiche en utilisant l'éditeur via multibao.org
@@ -25,7 +25,6 @@ C'est en bas de page, juste avant de valider vos modifications.
 
 ## Sur l'éditeur de multiBàO
 
-C'est sur le coté droit, juste avant de valider vos modifications. 
+C'est sur le côté droit, juste avant de valider vos modifications. 
 
 ![commitprose](https://framapic.org/D91XmrLdOSkm/NNFhqjtGvui9.png)
-

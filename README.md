@@ -40,7 +40,7 @@
 * [décrire aux lecteurs son dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 * modifier l'apparence de mon dépôt de fiches
 * [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
-* recevoir et accepter/refuser une proposition de modification de fiche
+* recevoir et accepter/refuser une proposition de modification de fiches
 
 **Connecter mon dépôt de fiches à multiBàO**
 
@@ -52,10 +52,14 @@
 * intégrer dans mon site web une ressource multiBàO
 * choisir la mise en page
 
-**Installer et réutiliser multiBàO pour un autre usage**
+**Intervenir sur multiBàO depuis mon ordinateur**
 
+* [utiliser git pour travailler sur mon dépôt depuis mon ordinateur](http://rogerdudler.github.io/git-guide/index.fr.html)
 * [installer multiBàO sur mon serveur local](https://github.com/multibao/site)
-* [réutiliser la technologie pour d'autres usages](https://github.com/multibao/site)
+
+**Détourner multiBàO pour un autre usage**
+
+* [Réutiliser le code de multibao](https://github.com/multibao/site)
 
 ---
 

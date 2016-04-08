@@ -2,7 +2,9 @@
 
 Pour ce faire, il vous faut un accès contributeur à http://github.com/multibao. Vous pouvez demander à n'importe quel contributeur existant de multiBàO. Ou écrire à thomas.wolff@cpcoop.fr pour lui demander de vous inviter ou de réaliser l'opération.
 
-Connectez votre dépôt github à multiBàO, éditez le document suivant: https://github.com/multibao/contributions/blob/master/_config.yml, en indiquant:
+Pour connecter votre dépôt github à multiBàO, éditez le document suivant: https://github.com/multibao/contributions/blob/master/_config.yml
+
+Indiquez-y:
  * **label** correspondant au titre du dépôt qui apparaîtra sur multibao.org
  * **account** votre nom d'utilisateur
  * **repo** le dépôt dans lequel sont stockées les fiches

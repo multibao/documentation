@@ -1,6 +1,6 @@
 # Renseigner les métadatas dans ma fiche
 
-Renseigner les metadatas permet de faire apparaître le titre - la description et les tags de votre fiche, et ceci sur http://multibao.org et sur les moteurs de recherche. C'est en quelque sorte la ressource que verrez apparaître lorsque vous rechercherez la ressource sur google.
+Renseigner les métadatas permet de faire apparaître le titre, la description et les tags de votre fiche, et ceci sur http://multibao.org et sur les moteurs de recherche. C'est en quelque sorte la ressource que verrez apparaître lorsque vous rechercherez la ressource sur google.
 
 * Rendez vous sur la fiche multiBàO que vous souhaitez modifier
 * Cliquez sur le logo éditeur, visible dans la partie haute gauche de la fiche
@@ -19,4 +19,4 @@ Renseigner les metadatas permet de faire apparaître le titre - la description e
  * ne pas renseigner la section *Raw metadatas* qui correspond à une écriture sous forme de code des metadatas
  ![demo](https://framapic.org/K4elclp2J6Iu/AeIQ9lcv5Bt7.png)
  * cliquez sur *Done*
- * cliquez sur le logo sauvegarde. Avant de sauvegarder, renseignez les modifications que vous avez fait. Enregistrez.
+ * cliquez sur le logo *Sauvegarde*. Avant de sauvegarder, renseignez les modifications que vous avez fait. Enregistrez.

@@ -24,7 +24,7 @@ title: Untitled
 
 **Exemple:** ne pas nommer une fiche "forum-ouvert&world-café.md" mais "forum_ouvert_world-cafe" 
 
-### Utiliser uniquement des miniscules 
+## Utiliser uniquement des miniscules 
 
 MultiBàO ne reconnaît pas les noms de fichiers avec des majuscules. 
 
@@ -32,13 +32,13 @@ MultiBàO ne reconnaît pas les noms de fichiers avec des majuscules.
 
 **Exemple 2:** ne pas nommer une dossier "Nos_Forums/forum_ouvert_ecole_benjamin.md" mais "nos_forums/forum_ouvert_ecole_benjamin.md".
 
-## Ecrivez court
+## Ecrire court
 
 * les articles et prépositions comme "mais; et; avec; sur; dans; etc." sont à éviter
 
-**Exemple 1:** plutôt que de nommer une fiche "Forum-Ouvert-avec-la-méthode-ecole-Benjamin-du-34.md", la nommer "forum_ouvert_ecole_benjamin.md"
+**Exemple:** plutôt que de nommer une fiche "Forum-Ouvert-avec-la-méthode-ecole-Benjamin-du-34.md", la nommer "forum_ouvert_ecole_benjamin.md"
 
-### Ne pas changer le nom des fichier en cours de route
+## Ne pas changer le nom des fichier en cours de route
 
 Imaginons qu'un site extérieur, comme http://coop-tic.eu écrive un article sur les bonnes pratiques d'animation en réunion et qu'il y soit indiqué un lien vers la fiche multiBàO que vous avez écrit. 
 
@@ -46,7 +46,7 @@ Si vous avez changé le nom de votre ressource, ce lien sera obsolète et les le
 
 Il en est de même pour l'utilisation du script d'intégration: ce dernier permet à n'importe quel utilisateur de multiBàO d'intégrer votre fiche / une fiche à son site web, et ça prendra automatiquement la mise en page de son site. Si vous modifiez le nom de la ressource, la ressource n'apparaîtra plus sur son site web ainsi que tous les sites qui partagent votre ressource. 
 
-### Final 
+### Nommer le language utilisé
 
 Mainteant que vous avez en main les bonnes pratiques pour nommer un fichier, une organisation, un dépot, vous pouvez vous intéresser à la petite partie juste après le nom, c'est ce qui apparait tel ".md" dans les exemples cité ci dessus.
 
@@ -54,3 +54,5 @@ Ce ".md" signifie que le fichier en langage Markdown, vous pourrez trouver d'aut
 * .html, pour langage HTML
 * .js pour langage Java Script
 * .png pour es imagesau format PNG
+
+**Exemple:** si vous nommez une fiche "forum_ouvert_ecole_benjamin", elle n'apparaîtra pas sur multiBàO. Nommez là "forum_ouvert_ecole_benjamin.**md**" et elle apparaitra puisque vous avez écrit une fiche en language Markdown (le language utilisé dans l'éditeur + sur github) et que vous avez indiqué à multibao que c'est écrit dans ce language.

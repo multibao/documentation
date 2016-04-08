@@ -21,13 +21,13 @@ Une fois ce nom choisi, il ne pourra que difficilement être modifié. En effet,
   
   * A lire obligatoirement (pour que tout fonctionne): [charte de nommage](https://github.com/multibao/modele_de_depot/blob/master/contributions/7-charte_de_nommage.md)
   
-  Exemples de noms de fiches:
+Exemples de noms de fiches:
   * Forum ouvert > forum_ouvert.md
   * Pro action café > pro_actionçcafecafe.md
   * Organisations en cercle pour une gouvernance partagée > organisation_cercle.md
   * Utilisation des revues en agilité > revues_agiles.md
   
-  Dernières étapes:
+Dernières étapes:
   * Une fois que c'est réalisé, vous pouvez [enrichir votre fiche](https://github.com/multibao/documentation/blob/master/fiches/enrichir_une_fiche.md) en écrivant dedans
   * C'est terminé: cliquez sur "Commit changes" (équivalent de valider)
   

@@ -46,7 +46,7 @@ Si vous avez changé le nom de votre ressource, ce lien sera obsolète et les le
 
 Il en est de même pour l'utilisation du script d'intégration: ce dernier permet à n'importe quel utilisateur de multiBàO d'intégrer votre fiche / une fiche à son site web, et ça prendra automatiquement la mise en page de son site. Si vous modifiez le nom de la ressource, la ressource n'apparaîtra plus sur son site web ainsi que tous les sites qui partagent votre ressource. 
 
-### Nommer le language utilisé
+## Nommer le language utilisé
 
 Mainteant que vous avez en main les bonnes pratiques pour nommer un fichier, une organisation, un dépot, vous pouvez vous intéresser à la petite partie juste après le nom, c'est ce qui apparait tel ".md" dans les exemples cité ci dessus.
 

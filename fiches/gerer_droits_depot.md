@@ -1,6 +1,6 @@
 # Gérer les droits de modification d'un dépot de fiches
 
-Depuis ton dépôt Github, rendez vous sur *Settings*, puis dans l'option *Collaborators and Teams*.
+Depuis votre dépôt Github, rendez vous sur *Settings*, puis dans l'option *Collaborators and Teams*.
 
 ![Operation gerer depot](https://framapic.org/wBjTlZTpUf63/2bd1GDJKL1WR.png)
 

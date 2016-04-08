@@ -8,7 +8,7 @@ Cette présentation sera visible sur http://multibao.org et sur http://github.co
 
 ## Décrire le dépôt de fiches dans le README.md
 
-* Lorsque vous avez créé votre dépôt de fiches, vous avez généré un fichier README.md qui est généré automatiquement
+* Lorsque vous avez créé votre dépôt de fiches, vous avez automatiquement généré un fichier README.md
 * Editer ce fichier README.md en utilisant soit l'éditeur de github, soit l'éditeur de multibao.org
 * Réaliser les modifications et enregistrer
 
@@ -16,9 +16,9 @@ Cette présentation sera visible sur http://multibao.org et sur http://github.co
 
 1. En une phrase, accueillir les lecteurs
 2. Expliciter le thème du dépôt de fiches: à qui est-il destiné / de quoi parle t-il? 
-3. Indiquer qui vous êtes en une phrase. 
-4. Indiquer vos coordonnées pour que les contributeurs puissent vous contacter.
-5. Indiquer la licence libre selon les termes de laquelle votre dossier de fiche est publié. 
+3. Indiquer qui vous êtes en une phrase
+4. Indiquer vos coordonnées pour que les contributeurs puissent vous contacter
+5. Indiquer la licence libre selon les termes de laquelle votre dossier de fiche est publié
 
 Exemples:
 

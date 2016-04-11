@@ -52,6 +52,11 @@
 * intégrer dans mon site web une ressource multiBàO
 * choisir la mise en page
 
+**Convertir ou télécharger une fiche**
+
+* Télécharger une fiche multiBàO en n'importe quel autre format (.html, .doc, .odt,...)
+* Convertir un document personnel (.html, .doc, .odt,...) en format multiBàO
+
 **Intervenir sur multiBàO depuis mon ordinateur**
 
 * [utiliser git pour travailler sur mon dépôt depuis mon ordinateur](http://rogerdudler.github.io/git-guide/index.fr.html)

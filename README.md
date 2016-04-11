@@ -43,7 +43,6 @@
 * [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
 * [décrire aux lecteurs son dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
-* modifier l'apparence de mon dépôt de fiches
 * [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
 
 **Connecter mon dépôt de fiches à multiBàO**

@@ -23,6 +23,9 @@ http://search.creativecommons.org/
 Stocker l'image sur ton site ou sur https://framapic.org/
 
 Framapic est un des nombreux services libres, sécurisés et gratuits de Framasoft. En un clic, tu ajoutes ta photo et récupères le lien hypertexte. A partir de ce lien hypertexte, tu peux ajouter la photo sous multiBàO.
+**IMPORTANT: n'oublie pas de choisir "Pas de limitation de durée" pour "Expiration" !** 
+
+![capture_framapic](https://framapic.org/9CbQBYUg8U5o/KZO1TBZAEiR5)
 
 ### Recommandations pour l'image
 

@@ -41,3 +41,5 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 * Réaliser les changements souhaités
 * Avant de sauvegarder, expliquer dans "commit" les changements que vous avez réalisé. 
 * Sauvegardez en cliquant sur "Propose this file"
+* L'équipe animatrice du dépôt de fiches recevra un e-mail lui proposant la modification. Si elle valide votre proposition de modification, la fiche sera automatiquement mise à jour. 
+

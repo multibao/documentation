@@ -1,34 +1,35 @@
-# Pour que les fiches soit utiles au lecteur ... 
+# Pour qu'un lecteur puisse utiliser une fiche: 
 
-> Les critères présentés ci dessous ont été définis lors d'un groupe de travail intensif d'une semaine avec les contributeurs multiBàO *Stéphane Langlois, Louise Berrotte, Xavier Coadic et Thomas Wolff*. 
+## Le lecteur doit pouvoir comprendre si les fiches sont adaptées à son profil et si ça répond potentiellement à ses problématiques
 
-## Le lecteur doit pouvoir comprendre si la fiche est écrite pour quelqu'un de son profil ... ou non
+> **La petite démonstration**: un animateur d'éducation populaire ouvre sans le savoir un dépôt de fiches partagé par des experts des méthodes de gestion de projet. Des mots comme Wip, Kanban, Scrum lui sautent aux yeux. "Ca doit pas être fait pour moi", remarque t-il. Il passe son chemin. 
 
-Lorsqu'un lecteur arrive sur votre dépôt de fiches, il devrait pouvoir comprendre si le dépôt de fiches est écrit pour quelqu'un comme lui ou non. 
+Lorsqu'un lecteur consulte votre dépôt de fiches, il devrait pouvoir comprendre si les fiches sont adaptéees à son profil et si ça répond potentiellement à ses problématiques. 
 
-Nous vous invitons à répondre à ce besoin en indiquant dans la description de votre dépôt de fiches: 
+Pour que le lecteur puisse s'identifier ou non à votre dépôt, nous vous invitons à:
 
-* qui vous êtes / ce que vous faites: ça aidera le lecteur à s'identifier ou non
-* si ce dépôt de fiches a été écrit pour un public cible particulier
-* et en une ou deux phrases, à quelles problématiques de ce public cible il répond
+* vous présenter dans la description de votre dépôt de fiches: qui êtes vous / que faites vous. Etes vous une équipe qui télétravaille et qui partage dans un dépôt de fiches ses astuces pour mieux vivre ensemble, ou êtes vous des experts de la "collaboration" qui partagent leurs réflexions?
+* indiquer dans la description même de votre dépôt de fiches à qui ce dépôt de fiches et adressé et à quelles problématiques générales il répond. 
 
-Démonstrations:
+## Le lecteur doit pouvoir comprendre le vocabulaire utilisé
 
-* Captain Berrotte 
+> **La petite démonstration**: "Je vous décris comment j'ai rédigé cette fiche: après un bootcamp avec 3 contributeurs, on a défini des keymetrics. Là je viens de puller ce repository github sur mon desktop, je modifie, après je commit et je pull."
 
-## Le lecteur doit pouvoir comprendre le vocabulaire utilisé 
+Lorsqu'un lecteur consulte votre dépôt de fiches, il doit pouvoir comprendre à minima qui vous êtes / ce que vous faites pour comprendre où il est et le vocabulaire utilisé. 
 
-Agilité, facilitation, méditation territoriale, WIP, combien de mots étranges utilisons nous. 
-Afin qu'un lecteur puisse comprendre les ressources présentées dans votre dépôt de fiches, nous vous invitons à: 
+Nous vous invitons à: 
 * respecter l'invitation précédente: mentionnez bien dans votre dépôt de fiches pour quels publics cibles le dépôt de fiches est écrit. Si le dépôt est publié pour des professionnels de l'agilité, du moment que c'est dit, le lecteur ne s'etonnera pas de découvrir des mots comme Kanban, Wip, Scrum. 
-* ne pas hésiter à clarifier les termes utilisés 
+* ne pas hésiter à clarifier les termes utilisés
 
-## Le lecteur doit pouvoir comprendre qui parle 
+## Le lecteur doit pouvoir d'où est produite la ressource
 
-Afin de pouvoir prendre votre ressource avec relativité, le lecteur doit pouvoir comprendre qui parle. Une ressource écrite par un expert des procédés collaboratifs est différent d'une ressource écrite par un membre d'une équipe qui relate une astuce que son équipe a trouvé. 
+Afin de pouvoir prendre votre ressource avec relativité, le lecteur doit pouvoir comprendre qui parle. 
+
+> **La petite démonstration**: une ressource écrite par un expert des procédés collaboratifs est différent d'une ressource écrite par un membre d'une équipe qui relate une astuce que son équipe a trouvé. 
 Et une fiche où deux ou trois membres d'une équipe décrivent l'astuce qu'ils ont trouvé, c'est différent d'un seul membre de l'équipe qui décrit l'astuce que l'équipe a trouvé.
 
 Nous vous invitons à: 
-* ce qu'il y ait au moins deux points de vue différents/complémentaires par fiche 
+
+* ce qu'il y ait au moins deux points de vue différents/complémentaires par fiche. Autrement dit qu'il ait au moins 2 auteurs par fiche. 
 * mentionner, au moins en fin de document, par qui le document a été rédigé 
 

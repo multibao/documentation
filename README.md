@@ -32,11 +32,11 @@
 * [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [choisir une licence libre](http://multibao.org/multibao/documentation/fiches/choisir_licence_libre.md)
 
-**Le B.A pour que nos fiches soient utiles**
+**Le B.A pour que nos fiches puissent...**
 
-* [B.A-BA. pour produire des fiches utilsables](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md)
-* [B.A-BA. pour produire des fiches agréables](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md)
-* [B.A-BA. pour produire des fiches réutilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
+* [être utilisées](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md)
+* [être agréables](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md)
+* [être réutilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
 
 **Administrer un dépôt de fiches**
 

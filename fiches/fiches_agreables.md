@@ -8,8 +8,11 @@
 
 ## Elles doivent être propres 
 
-Tout seul, difficile de ne pas oublier des mots ou de voir toutes ses fautes de grammaires / orthographe.
-
-### Invitations
-
 * être au moins deux contributeurs à relire la fiche
+
+### Explication
+
+Tout seul, difficile de ne pas oublier des mots ou de parvenir à voir toutes ses fautes de grammaires / orthographe. Etre deux, c'est avoir une chance supplémentaire de produire un document clair et agréable à lire. 
+
+
+

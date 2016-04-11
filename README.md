@@ -22,7 +22,7 @@
 
 **Interagir avec les autres utilisateurs**
 
-* envoyer des propositions de modification
+* [envoyer des propositions de modification](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
 * [demander un accès contributeur à un dépôt de fiches](http://www.multibao.org/multibao/documentation/fiches/demander_acces_contributeur.md)
 
 **Créer un dépôt de fiches**
@@ -40,7 +40,6 @@
 * [décrire aux lecteurs son dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 * modifier l'apparence de mon dépôt de fiches
 * [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
-* recevoir et accepter/refuser une proposition de modification de fiches
 
 **Connecter mon dépôt de fiches à multiBàO**
 

@@ -8,7 +8,7 @@ Ouvrez un nouveau document Word, OpenOffice ou LibreOffice et collez. La mise en
 
 ## Conversion aux formats web (.html, mediawiki...)
 
-Pour cette conversion là, vous pouvez utiliser le site [Pandoc](http://pandoc.org/try/).
+Pour cette conversion là, vous pouvez utiliser le site Pandoc.org.
 Rendez vous sur la fiche multiBàO que vous souhaitez convertir. Ouvrez l'éditeur.
 Sélectionnez, puis copiez-collez le contenu sur [Pandoc](http://pandoc.org/try/). Choisissez "from: **Markdown (GitHub)**".
 Choisissez le format dans lequel vous souhaitez convertir la fiche, et cliquez sur "Convert". Le code apparaît, vous pouvez le copier-coller où vous voulez!

@@ -1,6 +1,6 @@
 # Pour qu'un lecteur puisse utiliser une fiche: 
 
-## Le lecteur doit pouvoir comprendre si les fiches sont adaptées à son profil et si ça répond potentiellement à ses problématiques
+## Il doit pouvoir comprendre si les fiches sont adaptées à son profil et si ça répond potentiellement à ses problématiques
 
 ### Invitations 
 
@@ -13,7 +13,7 @@
 
 Lorsqu'un lecteur consulte votre dépôt de fiches, il devrait pouvoir comprendre si les fiches sont adaptéees à son profil et si ça répond potentiellement à ses problématiques. En une phrase: il devrait pouvoir s'identifier à votre dépôt.
 
-## Le lecteur doit pouvoir comprendre le vocabulaire utilisé
+## Il doit pouvoir comprendre le vocabulaire utilisé
 
 ### Invitations
 
@@ -26,7 +26,7 @@ Lorsqu'un lecteur consulte votre dépôt de fiches, il devrait pouvoir comprendr
 
 Lorsqu'un lecteur consulte votre dépôt de fiches, il doit pouvoir comprendre à minima qui vous êtes / ce que vous faites pour comprendre où il est. L'exemple ci dessus n'est pas choquant lorsqu'on sait qu'il s'agit d'une conservation entre deux développeurs web. 
 
-## Le lecteur doit pouvoir comprendre par qui est produite la ressource
+## Il doit pouvoir comprendre par qui est produite la ressource
 
 ### Invitations
 

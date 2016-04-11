@@ -2,7 +2,7 @@
 
 ## Elles doivent être publiées sous une licence libre
 
-* Choisissez la licence qui vous convient le mieux et indiquez simplement dans le pied de page de votre fiche.
+* Choisissez la licence qui vous convient le mieux et indiquez la dans le pied de page de votre fiche.
 
 ### Explication
 

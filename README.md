@@ -32,10 +32,14 @@
 * [dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [choisir une licence libre](http://multibao.org/multibao/documentation/fiches/choisir_licence_libre.md)
 
-**Gérer un dépôt de fiches**
+**Créer un dépôt de fiche utile**
+
+* [produire des ressources de qualité]
+* [structurer son dépôt pour qu'il soit utilisable]
+
+**Administrer un dépôt de fiches**
 
 * [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
-* définir l'utilité souhaitée d'un dépôt de fiches pour définir son architecture
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
 * [décrire aux lecteurs son dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 * modifier l'apparence de mon dépôt de fiches

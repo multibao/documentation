@@ -48,8 +48,7 @@
 
 **Intégrer une fiche multiBàO dans mon site web**
 
-* intégrer dans mon site web une ressource multiBàO
-* choisir la mise en page
+* [intégrer dans mon site web une ressource multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md)
 
 **Convertir ou télécharger une fiche**
 

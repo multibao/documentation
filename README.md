@@ -53,7 +53,7 @@
 
 **Convertir ou télécharger une fiche**
 
-* Télécharger une fiche multiBàO en n'importe quel autre format (.html, .doc, .odt,...)
+* [Télécharger une fiche multiBàO en n'importe quel autre format (.html, .doc, .odt,...)](http://www.multibao.org/multibao/documentation/fiches/telecharger_fiche.md)
 * Convertir un document personnel (.html, .doc, .odt,...) en format multiBàO
 
 **Intervenir sur multiBàO depuis mon ordinateur**

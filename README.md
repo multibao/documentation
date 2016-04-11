@@ -23,7 +23,7 @@
 **Interagir avec les autres utilisateurs**
 
 * envoyer des propositions de modification
-* demander un accès contributeur à un dépôt de fiches
+* [demander un accès contributeur à un dépôt de fiches](http://www.multibao.org/multibao/documentation/fiches/demander_acces_contributeur.md)
 
 **Créer un dépôt de fiches**
 

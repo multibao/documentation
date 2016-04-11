@@ -1,12 +1,18 @@
-# Pour qu'un lecteur puisse réutiliser vos ressources
+# Pour que vos fiches soient réutilisables 
 
 ## Elles doivent être publiées sous une licence libre
 
-Cette licence doit être mentionnée à minima dans le pied de page de chaque fiche. 
-S'il y a plusieurs auteurs, plusieurs niveaux de licences peuvent être mentionnés.
-Choisissez la licence qui vous convient le mieux et indiquez simplement la licence, ainsi qu'un lien vers la licence en question.
+* Choisissez la licence qui vous convient le mieux et indiquez simplement dans le pied de page de votre fiche.
 
-Exemple: le présent document est rédigé par Thomas Wolff selon les termes de la licence Creative Commons BY-SA
+### Explication
+
+Les licences libres enrichissent vos droits d'auteur en mentionnant quelles sont les libertés que vous accordez à votre ressource.
+
+Sur multiBàO, toutes les ressources sont publiées sous une licence libre.
+
+S'il y a plusieurs auteurs, plusieurs niveaux de licences peuvent être mentionnés.
+
+> **Exemple de citation d'une licence libre:** le présent document est rédigé par Thomas Wolff selon les termes de la licence Creative Commons BY-SA
 
 ### De base: on vous propose des licences Creative Commons
 
@@ -19,5 +25,6 @@ Vous pouvez spécifier le niveau de restriction que vous souhaitez imposer à vo
 
 ## Elles doivent être accessibles
 
-En déposant vos ressources sur http://github.com et http://multibao.org, vos données sont "ouvertes", c'est à dire qu'on peut s'y connecter et les récupérer.
-Vos fiches peuvent alors être converties en format html, word, pdf ou tout autre format. 
+En déposant vos ressources sur http://github.com et http://multibao.org, vos données sont "ouvertes", c'est à dire que des utilisateurs extérieurs peuvent s'y connecter pour les extraire et les faire vivre plus loin.
+
+C'est aussi ça le jeu des licences libres non? ;)

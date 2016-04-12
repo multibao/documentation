@@ -68,4 +68,4 @@
 
 ---
 
-> Si vous n'avez toujours pas trouvé la réponse à votre question, vous pouvez contacter Thomas Wolff par [mail](mailto:thomas.wolff@cpcoop.fr) ou téléphone (0642459781). 
+> Si vous n'avez toujours pas trouvé la réponse à votre question, vous pouvez contacter Thomas Wolff par [mail](mailto:thomas.wolff@cpcoop.fr) ou téléphone (0642459781).

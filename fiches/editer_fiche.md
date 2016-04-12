@@ -2,7 +2,7 @@
 
 ## C'est quoi une fiche? 
 
-Une feuille numérique sur laquelle on écrit des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par odre chronologique dans des boîtes.
+Une feuille numérique sur laquelle on écrit des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par ordre chronologique dans des boîtes.
 On y a recours pour trouver des volumes dans la bibliothèque. On s’en sert aussi pour préparer des tables de matières.
 
 ## Exemple de fiche sur multibao

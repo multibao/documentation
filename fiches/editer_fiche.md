@@ -12,7 +12,6 @@ On y a recours pour trouver des volumes dans la bibliothèque. On s’en sert au
 Vous pouvez y voir l'auteur, Jean-Michel Cornu, la licence d'utilisation attribuée à cette fiche par l'auteur, Creatives Commons By-Sa, le texte rédigé en contenu de cette fiche.
 Lorsque que vous choississez de modifier une fiche vous verrez également apparaitre la liste des contributeurs, autrement dit les participants à l'écriture et modifications.
 
-
 ## Deux possibilités pour modifier une fiche
 
 * soit via http://multibao.org par son éditeur
@@ -25,7 +24,7 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 
 * Rendez vous sur la fiche multiBàO que vous souhaitez modifier
 * Cliquez sur le logo éditeur, visible dans la partie haute gauche de la fiche
-![éditeur](https://framapic.org/tmnZlGFmc1PC/lPMGxuPbLWre.png)
+![éditeur](https://framapic.org/NuDhqKnnX6Jj/t3dmKtQRDpgj)
 * La page de l'éditeur s'ouvre
 ![vision](https://framapic.org/761Pgp9D5rTf/lZIAbUohes1v.png)
 * Réaliser les changements souhaités

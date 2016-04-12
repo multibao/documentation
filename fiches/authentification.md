@@ -7,6 +7,7 @@ Vous avez la possibilité de vous authentifier:
 * Rendez vous sur la fiche que vous souhaitez modifier
 * Ouvrez l'éditeur sur la fiche que vous souhaitez modifier 
 * En bas à droite de l'écran, il y a un logo vert "s'authentifier"
+![s'authentifier](https://framapic.org/JXNbD8kq2kgp/HpwgbWNUB2He)
 * Cliquez dessus et authentifiez vous
 
 ### via http://github.com

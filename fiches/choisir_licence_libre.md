@@ -20,6 +20,6 @@ Vous pouvez spécifier le niveau de restriction que vous souhaitez imposer à vo
 
 <iframe src="https://player.vimeo.com/video/95488932" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Aller plus loin: pourquoi adopter des licences libres
+## Aller plus loin: pourquoi adopter des licences libres ?
 
 Lire l'article d'[April](Pourquoi adopter une licence libre ?).

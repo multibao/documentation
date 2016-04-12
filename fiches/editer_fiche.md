@@ -27,6 +27,8 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 ![éditeur](https://framapic.org/NuDhqKnnX6Jj/t3dmKtQRDpgj)
 * La page de l'éditeur s'ouvre
 ![vision](https://framapic.org/761Pgp9D5rTf/lZIAbUohes1v.png)
+* Si ce bouton apparaît en bas à droite de l'écran, cliquez dessus: il va vous permettre de vous connecter à github.
+![connexion](https://framapic.org/JXNbD8kq2kgp/HpwgbWNUB2He)
 * Réaliser les changements souhaités
 * Cliquer sur la disquette pour sauvegarder votre contribution
 ![sauvegarde](https://framapic.org/CywnlhlB0hTU/GMFYSDW8w3x6.png)

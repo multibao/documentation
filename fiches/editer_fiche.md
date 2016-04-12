@@ -27,8 +27,7 @@ Vous arriverez au même résultat si vous utilisez l'un ou l'autre.
 ![éditeur](https://framapic.org/NuDhqKnnX6Jj/t3dmKtQRDpgj)
 * La page de l'éditeur s'ouvre
 ![vision](https://framapic.org/761Pgp9D5rTf/lZIAbUohes1v.png)
-* Si ce bouton apparaît en bas à droite de l'écran, cliquez dessus.
-Il va vous permettre de vous authentifier. Vous n'avez pas de compte utilisateur github? [Cliquez ici](http://www.multibao.org/multibao/documentation/fiches/creer_compte.md).
+* Si ce bouton apparaît en bas à droite de l'écran, cliquez dessus. Il va vous permettre de vous authentifier. Vous n'avez pas de compte utilisateur github? [Cliquez ici](http://www.multibao.org/multibao/documentation/fiches/creer_compte.md).
 ![connexion](https://framapic.org/JXNbD8kq2kgp/HpwgbWNUB2He)
 * Réaliser les changements souhaités
 * Cliquer sur la disquette pour sauvegarder votre contribution

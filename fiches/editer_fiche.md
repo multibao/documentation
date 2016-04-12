@@ -5,6 +5,14 @@
 Une feuille numérique sur laquelle on écrit des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par odre chronologique dans des boîtes.
 On y a recours pour trouver des volumes dans la bibliothèque. On s’en sert aussi pour préparer des tables de matières.
 
+## Exemple de fiche sur multibao
+
+[Coopérer, entre efficience et résilience](http://www.multibao.org/supagroflorac/cooptic/contributions/c_Cooperer_entre_efficience_et_resilience.md) est une fiche déposée sur multibao dans le dépot de dossier COOP-Tic. Elle apparait en seconde proposition de fiche à lire. 
+
+Vous pouvez y voir l'auteur, Jean-Michel Cornu, la licence d'utilisation attribuée à cette fiche par l'auteur, Creatives Commons By-Sa, le texte rédigé en contenu de cette fiche.
+Lorsque que vous choississez de modifier une fiche vous verrez également apparaitre la liste des contributeurs, autrement dit les participants à l'écriture et modifications.
+
+
 ## Deux possibilités pour modifier une fiche
 
 * soit via http://multibao.org par son éditeur

@@ -51,8 +51,8 @@ Les problèmes que vous avez validés (intervies)
 
 ### Coûts
 
-* 3000€ + 30 jours bénévoles > Thomas Wolff
-* 30 jours bénévoles > Stéphane Langlois
+* 40 jours bénévoles > Stéphane Langlois
+* 3000€ + 20 jours bénévoles > Thomas Wolff
 * 7 jours bénévoles > Xavier Coadic
 * 20 jours bénévoles > Louise Berrotte 
 * + voir les contributeurs

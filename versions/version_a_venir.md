@@ -26,10 +26,10 @@ La multi Boîte à Outils t'es ouverte si tu es impliqué dans la vie d'une équ
 
 ### Unfair Avantages 
 
-MultiBàO est construit uniquement par et avec des utilisateurs qui souhaitent faire vivre leurs apprentissages.
-Grâce à l'interaction avec les contributeurs et la documentation, vous avez la possibilité d'être guidé tout en montant en compétence sur le numérique.
-Grâce à sa gouvernance distribuée (chacun est libre sur ses données), des associations, établissements publics et citoyens s'y retrouvent.
-Pour faire vivre les données, les fiches sont entretenues par plusieurs personnes. Les utilisateurs extérieurs peuvent même vous envoyer des propositions de modification sur vos ressources. 
+* multiBàO est construit uniquement par et avec des utilisateurs qui souhaitent faire vivre leurs apprentissages.
+* grâce à l'interaction avec les contributeurs et la documentation, vous avez la possibilité d'être guidé tout en montant en compétences sur le numérique.
+* grâce à sa gouvernance distribuée (chacun est libre sur ses données), des associations, établissements publics et citoyens s'y retrouvent.
+* pour faire vivre les données, les fiches sont entretenues par plusieurs personnes. Les utilisateurs extérieurs peuvent même vous envoyer des propositions de modification sur vos ressources. 
 
 ### Problématiques 
 

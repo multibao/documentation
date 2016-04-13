@@ -12,7 +12,7 @@ Partager et faire évoluer nos apprentissages sur le faire-ensemble.
 
 ### Métaphore 
 
-C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes à vocation a être enrichi avec d'autres.
+C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
 
 ### Public cible 
 

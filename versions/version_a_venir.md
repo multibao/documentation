@@ -12,15 +12,13 @@ Partager et faire évoluer nos apprentissages sur le faire-ensemble.
 
 ### Métaphore 
 
-C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes à vocation a être enrichi.
+C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes à vocation a être enrichi avec d'autres.
 
 ### Public cible 
 
 La multi Boîte à Outils t'es ouverte si tu es impliqué dans la vie d'une équipe (potes, professionnel, association) ou si tu facilites régulièrement des temps collaboratifs (animation, éducation, enseignement, groupes, ...). * Public cible * 
 
 ### Solutions 
-
-Elle vous permet de: 
 
 * Partager aux autres équipes vos apprentissages, réfléxions, pépites et gamelles que vous avez découvert
 * Avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données
@@ -35,10 +33,10 @@ Pour faire vivre les données, les fiches sont entretenues par plusieurs personn
 
 ### Problématiques 
 
-Les problèmes que vous nous avez validés (12 interviews): 
+Les problèmes que vous avez validés (intervies)
 
-* j'ai besoin d'autres pour faire vivre des ressources sur internet. Tout seul sur mon blog je galère pas et c'est pas le même résultat. Mais plusieurs...
-* je ne doute pas de mon honneteté intellectuelle lorsque j'écris une fiche: je doute que mes fiches soient compréhensibles et réutilisables par d'autres
+* j'ai besoin des autres pour faire vivre des ressources sur internet (entretenir les données, mises en pages, relecture, enrichissements, ...). Jusqu'à là je le fais tout seul.
+* je doute que mes fiches soient compréhensibles et réutilisables par d'autres - je ne doute pas de mon honneteté intellectuelle quand j'écris une fiche, je doute que d'autres comprennent ce que je dis
 * déposer mes données à un endroit c'est restreignant: l'outil limite les choix de gouvernance et complique la possibilité de réutiliser notre travail pour d'autres usages (export en .doc, faire apparaître une ressource sur plusieurs sites, ...)
 
 ### Médias

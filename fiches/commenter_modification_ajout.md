@@ -10,7 +10,6 @@
 Votre phrase de "commit" ou "commentaire":
 * doit expliciter en un coup d'oeil ce que vous avez modifié
 * ne doit pas dépasser 50 caractères
-* doit commencer par un verbe d'action
 
 Exemples:
 * Correction des fautes d'orthographe

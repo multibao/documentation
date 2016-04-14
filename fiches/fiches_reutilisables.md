@@ -1,6 +1,6 @@
 # Une fiche réutilisable, c'est... 
 
-## Une fiche publiée sous une licence libre
+## 1) Une fiche publiée sous une licence libre
 
 * Choisissez la licence qui vous convient le mieux et indiquez la dans le pied de page de votre fiche.
 
@@ -23,7 +23,7 @@ Vous pouvez spécifier le niveau de restriction que vous souhaitez imposer à vo
 
 <iframe src="https://player.vimeo.com/video/95488932" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Une fiche accessible aux utilisateurs extérieurs
+## 2) Une fiche accessible aux utilisateurs extérieurs
 
 En déposant vos ressources sur http://github.com et http://multibao.org, vos données sont "ouvertes", c'est à dire que des utilisateurs extérieurs peuvent s'y connecter pour les extraire et les faire vivre plus loin.
 

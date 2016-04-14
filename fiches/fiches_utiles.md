@@ -1,9 +1,10 @@
-# C'est quoi, une fiche utilisable?
+# C'est quoi, une fiche utilisable ?
 
 ## 1) Une fiche contextualisée
 
 * Présentez vous dans la description de votre dépôt de fiches: qui êtes vous / que faites vous? Etes vous une équipe de télétravailleurs, qui partage dans un dépôt de fiches ses astuces pour coworker à distance? Etes vous des experts de la l'agilité, qui partagent leurs réflexions?
 * Indiquez dans ce même dépôt à qui les fiches du dépôt sont adressées (quel(s) public(s) cible) et à quelles problématiques générales il répond.
+
 *A lire également: [Décrire son dépôt de fiches](http://www.multibao.org/multibao/documentation/fiches/decrire_depot.md)*
 
 ### Explication

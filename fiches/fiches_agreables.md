@@ -2,14 +2,14 @@
 
 ## 1) Une fiche esthétique
 
-* respecter les différents niveaux de titre
+* respecter les différents niveaux de titre et autres critères de [mise en forme du texte](http://www.multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
 * veiller à ce que les images ne fassent pas plus 640 px de large (sans quoi elles "dépassent")
-* être au moins 2 contributeurs à relire et mettre en page chaque fiche
 
-## 2) Une fiche propre 
+## 2) Une fiche correctement écrite
 
-* être au moins deux contributeurs à relire la fiche
+* prêter attention aux coquilles
+* si besoin, clarifier certains termes
 
-### Explication
+## 3) Une fiche co-écrite
 
-Tout seul, difficile de ne pas oublier des mots ou de parvenir à voir toutes ses fautes de grammaire / orthographe. Etre deux, c'est avoir une chance supplémentaire de produire un document clair et agréable à lire.
+Tout seul, difficile de ne pas oublier des mots ou de parvenir à voir toutes ses fautes de grammaire / orthographe. Etre au moins deux, c'est avoir une chance supplémentaire de produire un document clair et agréable à lire.

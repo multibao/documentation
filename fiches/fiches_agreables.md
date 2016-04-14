@@ -1,12 +1,12 @@
 # Une fiche agréable, c'est...
 
-## Une fiche esthétique
+## 1) Une fiche esthétique
 
 * respecter les différents niveaux de titre
 * veiller à ce que les images ne fassent pas plus 640 px de large (sans quoi elles "dépassent")
 * être au moins 2 contributeurs à relire et mettre en page chaque fiche
 
-## Une fiche propre 
+## 2) Une fiche propre 
 
 * être au moins deux contributeurs à relire la fiche
 

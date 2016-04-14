@@ -1,6 +1,6 @@
 # C'est quoi, une fiche utilisable ?
 
-## Une fiche qui permet au lecteur de se positionner par rapport à un contexte
+## Une fiche qui permet au lecteur de se positionner
 
 * Présentez vous dans la description de votre dépôt de fiches: qui êtes vous / que faites vous? Etes vous une équipe de télétravailleurs, qui partage dans un dépôt de fiches ses astuces pour coworker à distance? Etes vous des experts de la *collaboration*, qui partagent leurs réflexions?
 * Indiquez dans ce même dépôt à qui les fiches du dépôt sont adressées (quel(s) public(s) cible) et à quelles problématiques générales il répond.

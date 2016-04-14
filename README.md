@@ -39,7 +39,7 @@
 
 **Le B.A-BA. pour que nos fiches puissent...**
 
-* [être utilisées](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md)
+* [être utilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md)
 * [être agréables](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md)
 * [être réutilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
 

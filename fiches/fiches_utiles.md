@@ -1,20 +1,20 @@
-# Pour que vos fiches soient utilisables
+# C'est quoi, une fiche utilisable ?
 
-## Elles doivent permettre au lecteur de se positionner par rapport à votre contexte
+## Une fiche qui permet au lecteur de se positionner par rapport à un contexte
 
-* présentez vous dans la description de votre dépôt de fiches: qui êtes vous / que faites vous? Etes vous une équipe qui télétravaille qui partage dans un dépôt de fiches ses astuces pour coworker à distance, ou êtes vous des experts de la *collaboration* qui partagent leurs réflexions?
-* indiquez dans ce même dépôt à qui les fiches du dépôt sont adressées (quel(s) public(s) cible) et à quelles problématiques générales il répond.
+* Présentez vous dans la description de votre dépôt de fiches: qui êtes vous / que faites vous? Etes vous une équipe de télétravailleurs, qui partage dans un dépôt de fiches ses astuces pour coworker à distance? Etes vous des experts de la *collaboration*, qui partagent leurs réflexions?
+* Indiquez dans ce même dépôt à qui les fiches du dépôt sont adressées (quel(s) public(s) cible) et à quelles problématiques générales il répond.
 
 ### Explication
 
 > **La petite démonstration**: un animateur d'éducation populaire ouvre sans le savoir un dépôt de fiches partagé par des experts des méthodes de gestion de projet. Des mots comme Wip, Kanban, Scrum lui sautent aux yeux. "Ca doit pas être fait pour moi", remarque t-il. Il passe son chemin. 
 
-Lorsqu'un lecteur consulte votre dépôt de fiches, il devrait pouvoir comprendre si les fiches sont adaptéees à son profil et si ça répond potentiellement à ses problématiques. En une phrase: il devrait pouvoir s'identifier à votre dépôt.
+Lorsqu'un lecteur consulte votre dépôt de fiches, il devrait pouvoir comprendre si les fiches sont adaptées à son profil et si ça répond potentiellement à ses problématiques. En une phrase: il devrait pouvoir s'identifier à votre dépôt.
 
-## Elles doivent permettre au lecteur de comprendre ce que vous dites
+## Une fiche qui permet au lecteur de comprendre ce qui est dit
 
-* mentionnez bien dans votre dépôt de fiches pour quels publics cibles le dépôt de fiches est écrit. Si le dépôt est publié pour des professionnels de l'agilité, du moment que c'est dit, le lecteur ne s'etonnera pas de découvrir des mots comme Kanban, Wip, Scrum. 
-* n'hésitez pas à clarifier les termes utilisés
+* Mentionnez bien dans votre dépôt de fiches pour quels publics cibles le dépôt de fiches est écrit. Si le dépôt est publié pour des professionnels de l'agilité, du moment que c'est dit, le lecteur ne s'étonnera pas de découvrir des mots comme Kanban, Wip, Scrum. 
+* N'hésitez pas à clarifier les termes utilisés.
 
 ### Explication
 
@@ -22,16 +22,14 @@ Lorsqu'un lecteur consulte votre dépôt de fiches, il devrait pouvoir comprendr
 
 Lorsqu'un lecteur consulte votre dépôt de fiches, il doit pouvoir comprendre à minima qui vous êtes / votre profil / ce que vous faites pour comprendre où il est. 
 
-## Elles doivent permettre au lecteur de considérer vos publications avec relativité
+## Une fiche qui permet au lecteur de faire preuve de relativité
 
-* à co-écrivez vos ressources (au moins 2 auteurs / points de vue différents par fiche)
-* mentionnez, au moins en fin de document, par qui le document a été rédigé (une seule personne, plusieures?)
+* Co-écrivez vos ressources (au moins 2 auteurs / points de vue différents par fiche).
+* Mentionnez, au moins en fin de document, par qui le document a été rédigé (une seule personne, plusieurs?).
 
 ### Explication
 
-> **La petite démonstration**: une ressource écrite par un expert des procédés collaboratifs est différent d'une ressource écrite par un membre d'une équipe qui relate une astuce que son équipe a trouvé. 
-Et une fiche où deux ou trois membres d'une équipe décrivent l'astuce qu'ils ont trouvé, c'est différent d'un seul membre de l'équipe qui décrit l'astuce que l'équipe a trouvé.
+> **La petite démonstration**: une ressource écrite par un expert des procédés collaboratifs, est différente d'une ressource écrite par un membre d'équipe qui relate une astuce que son équipe a trouvé. 
+Et une fiche où deux ou trois membres d'une équipe décrivent l'astuce qu'ils ont trouvé, c'est différent d'un seul membre de l'équipe qui décrit cette astuce.
 
-Afin de pouvoir regarder votre ressource avec relativité, le lecteur doit pouvoir comprendre qui parle. Le top c'est qu'il y ait au moins deux auteurs, ainsi le lecteur aura au moins deux points de vue et pourra plus facilement se construire son idée. 
-
-
+Afin de pouvoir regarder votre ressource avec relativité, le lecteur doit pouvoir comprendre qui parle. Le top c'est qu'il y ait au moins deux auteurs, ainsi le lecteur aura au moins deux points de vue et pourra plus facilement se construire son idée.

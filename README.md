@@ -47,6 +47,7 @@
 
 * [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
 * [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
+* [transférer un dépôt d'un utilisateur vers une organisation](http://www.multibao.org/multibao/documentation/fiches/transferer_depot.md)
 * [faire apparaître mon dépôt de fiches sur multibao.org](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md)
 
 **Intégrer une fiche multiBàO dans mon site web**

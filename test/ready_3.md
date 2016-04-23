@@ -5,24 +5,24 @@
 Durée de l'étape : 6 minutes
 
 Créer une organisation, c'est la première étape pour pouvoir publier tes ressources. C'est aussi une possibilité pour toi que plusieurs personnes prennent soin de tes fiches, car tu peux inviter des membres à rejoindre ton organisation.
-Clique sur le + à côté de ton logo utilisateur (en haut à droite), puis choisis *New organization*.
-Donne le nom que tu souhaites à ton organisation (tu pourras toujours le changer plus tard), indique ton e-mail et choisis *Opensource*. Puis valide.
-Dans l'étape d'après, tu as la possibilité d'inviter des nouveaux membres à ton organisation. 
-Clique sur *Finish*
-Ca y est! Le lien de la page de ton organisation est : http://github.com/Nomdevotreorganisation
+* Clique sur le + à côté de ton logo utilisateur (en haut à droite), puis choisis *New organization*.
+* Donne le nom que tu souhaites à ton organisation (tu pourras toujours le changer plus tard), indique ton e-mail et choisis *Opensource*. Puis valide.
+* Dans l'étape d'après, tu as la possibilité d'inviter des nouveaux membres à ton organisation. 
+* Clique sur *Finish*.
+* Ca y est! Le lien de la page de ton organisation est : http://github.com/Nomdevotreorganisation.
 
 ## Crée ton premier dépôt de fiches
 
-Durée de l'étape: 15 minutes
+Durée de l'étape : 15 minutes
 
 Tu as deux possibilités:
-1. Tu copies ici un joli dépôt de fiches pré-rempli pour faciliter la démarche
-2. Tu fais tout à la main
+1. Tu copies ici un joli dépôt de fiches pré-rempli pour faciliter la démarche.
+2. Tu fais tout à la main.
 
 On va plutôt opter pour la 1ère ;). 
 
 Tu vas apprendre à copier l'intégralité du dépôt de fiches http://github.com/multibao/modele_de_depot sur ton organisation.
-* Va sur http://github.com/multibao/modele_de_depot
+* Va sur http://github.com/multibao/modele_de_depot.
 * En haut à droite de l'écran, il y a un bouton qui s'appelle *Fork*. Fork signifie que tu vas copier-coller intégralement et légalement ce dépot de fiches dans ton organisation pour pouvoir le réadapter à ta sauce.
 * Clique sur *Fork*. 
 * Github te demande alors où te souhaites déposer ce dossier de fiches.

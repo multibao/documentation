@@ -25,7 +25,9 @@ Prenons l'exemple de multiBàO :
 * Ouvre la fiche *Ingredient01: Démarrer Former Un Groupe*.
 
 Réseau Transition Belgique, c'est une **organisation**. Il s'agit de l'association www.reseautransition.be. Il y a plusieurs contributeurs qui entretiennent les dépôts de fiches.
+
 Ingrédients de transition, c'est un **dépôt de fiches thématiques**. Réseau Transition Belgique peut décider d'inviter des contributeurs particuliers, qui seront limités à ce dépôt de fiches.
+
 Ingredient01: Démarrer Former Un Groupe, c'est une **fiche**.
 
 Pour publier tes ressources, tu vas donc créer ton organisation et ton premier dépôt. Rends-toi au Ready3 !

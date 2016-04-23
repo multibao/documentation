@@ -5,7 +5,7 @@
 Durée de l'étape : 6 minutes
 
 Créer une organisation, c'est la première étape pour pouvoir publier tes ressources. C'est aussi une possibilité pour toi que plusieurs personnes prennent soin de tes fiches, car tu peux inviter des membres à rejoindre ton organisation.
-* Clique sur le + à côté de ton logo utilisateur (en haut à droite), puis choisis *New organization*.
+* Sur Github, clique sur le + à côté de ton logo utilisateur (en haut à droite), puis choisis *New organization*.
 * Donne le nom que tu souhaites à ton organisation (tu pourras toujours le changer plus tard), indique ton e-mail et choisis *Opensource*. Puis valide.
 * Dans l'étape d'après, tu as la possibilité d'inviter des nouveaux membres à ton organisation. 
 * Clique sur *Finish*.

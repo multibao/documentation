@@ -31,4 +31,4 @@ Exemples de noms de fiches:
   * Une fois que c'est réalisé, vous pouvez [enrichir votre fiche](https://github.com/multibao/documentation/blob/master/fiches/enrichir_une_fiche.md) en écrivant dedans
   * C'est terminé: cliquez sur "Commit changes" (équivalent de valider)
   
-**Féliciations ! Vous avez créé votre fiche dans github, maintenant elle peut être lisible sur multiBàO.**
+**Félicitations ! Vous avez créé votre fiche dans github, maintenant elle peut être lisible sur multiBàO.**

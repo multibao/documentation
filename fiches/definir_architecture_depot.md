@@ -23,8 +23,8 @@ Si vous voulez leur donner un ordre précis, vous pouvez ajouter un numéro au d
 Vous avez écrit 3 fiches: "Web 2.0", "Flux RSS et syndication" et "Licences libres".
 Vous souhaitez qu'elles apparaissent dans cet ordre là.
 Au lieu de nommer vos fiches "web_2.md", "flux_rss_syndication.md" et "licences_libres.md", nommez-les comme ceci:
-* 01-web_2.md
-* 02-flux_rss_syndication.md
-* 03-licences_libres.md
+* 1-web_2.md
+* 2-flux_rss_syndication.md
+* 3-licences_libres.md
 
 Pour que les numéros n'apparaissent pas dans le dépôt de fiches, n'oubliez pas de [renseigner le titre dans les métadatas](http://www.multibao.org/multibao/documentation/fiches/metadatas.md).

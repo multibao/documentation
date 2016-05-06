@@ -24,7 +24,7 @@ Exemples de noms de fiches:
   * Organisations en cercle pour une gouvernance partagée > organisation_cercle.md
   * Utilisation des revues en agilité > revues_agiles.md
   
-**A savoir:** Par défaut, les fiches apparaissent dans votre dépôt par ordre alphabétique. Si vous souhaitez leur assigner un ordre précis, vous pouvez ajouter un numéro au début de leur nom. Par exemple, "01-pro_action_cafe.md", "02-revues_agiles.md", etc. Pour en savoir plus sur la structuration des dépôts, [cliquez ici].
+**A savoir:** Par défaut, les fiches apparaissent dans votre dépôt par ordre alphabétique. Si vous souhaitez leur assigner un ordre précis, vous pouvez ajouter un numéro au début de leur nom. Par exemple, "1-pro_action_cafe.md", "2-revues_agiles.md", etc. Pour en savoir plus sur la structuration des dépôts, [cliquez ici](http://multibao.org/multibao/documentation/fiches/definir_architecture_depot.md).
   
 ## Enrichir sa fiche
 

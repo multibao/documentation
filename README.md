@@ -6,11 +6,11 @@
 
 **Ajouter ou modifier du contenu**
 
-* [éditer une fiche](#multibao/documentation/blob/master/fiches/editer_fiche.md)
-* [mettre en forme le texte](#multibao/documentation/fiches/mise_forme_texte.md)
-* [insérer une image](#multibao/documentation/fiches/inserer_image.md)
-* [créer des notes de bas de page](#multibao/documentation/fiches/notes_pied_page.md)
-* [expliquer vos modifications](#multibao/documentation/fiches/commenter_modification_ajout.md)
+* [éditer une fiche](http://multibao.org/multibao/documentation/fiches/editer_fiche.md)
+* [mettre en forme le texte](http://multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
+* [insérer une image](http://multibao.org/multibao/documentation/fiches/inserer_image.md)
+* [créer des notes de bas de page](http://multibao.org/multibao/documentation/fiches/notes_pied_page.md)
+* [expliquer vos modifications](http://multibao.org/multibao/documentation/fiches/commenter_modification_ajout.md)
 
 **Créer du contenu**
 

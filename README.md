@@ -6,7 +6,7 @@
 
 **Ajouter ou modifier du contenu**
 
-* [éditer une fiche](#multibao/documentation/fiches/editer_fiche.md)
+* [éditer une fiche](#multibao/documentation/blob/master/fiches/editer_fiche.md)
 * [mettre en forme le texte](#multibao/documentation/fiches/mise_forme_texte.md)
 * [insérer une image](#multibao/documentation/fiches/inserer_image.md)
 * [créer des notes de bas de page](#multibao/documentation/fiches/notes_pied_page.md)

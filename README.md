@@ -2,7 +2,7 @@
 
 **Vous tester**
 
-* [commencer le test](http://multibao.org/multibao/documentation/test)
+* [commencer le test](#multibao/documentation/test)
 
 **Ajouter ou modifier du contenu**
 

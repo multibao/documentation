@@ -2,15 +2,15 @@
 
 **Vous tester**
 
-* [commencer le test](http://multibao.org/multibao/documentation/test)
+* [commencer le test](multibao/documentation/test)
 
 **Ajouter ou modifier du contenu**
 
-* [éditer une fiche](/fiches/editer_fiche.md)
-* [mettre en forme le texte](http://multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
-* [insérer une image](/fiches/inserer_image.md)
-* [créer des notes de bas de page](http://multibao.org/multibao/documentation/fiches/notes_pied_page.md)
-* [expliquer vos modifications](http://multibao.org/multibao/documentation/fiches/commenter_modification_ajout.md)
+* [éditer une fiche](multibao/documentation/fiches/editer_fiche.md)
+* [mettre en forme le texte](multibao/documentation/fiches/mise_forme_texte.md)
+* [insérer une image](fiches/inserer_image.md)
+* [créer des notes de bas de page](multibao/documentation/fiches/notes_pied_page.md)
+* [expliquer vos modifications](multibao/documentation/fiches/commenter_modification_ajout.md)
 
 **Créer du contenu**
 

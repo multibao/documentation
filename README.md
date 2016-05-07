@@ -6,9 +6,9 @@
 
 **Ajouter ou modifier du contenu**
 
-* [éditer une fiche](http://www.multibao.org/multibao/documentation/fiches/editer_fiche.md)
+* [éditer une fiche](/fiches/editer_fiche.md)
 * [mettre en forme le texte](http://multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
-* [insérer une image](http://multibao.org/multibao/documentation/fiches/inserer_image.md)
+* [insérer une image](/fiches/inserer_image.md)
 * [créer des notes de bas de page](http://multibao.org/multibao/documentation/fiches/notes_pied_page.md)
 * [expliquer vos modifications](http://multibao.org/multibao/documentation/fiches/commenter_modification_ajout.md)
 

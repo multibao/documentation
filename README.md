@@ -1,7 +1,7 @@
 ---
 title: Guide d'utilisation
 description: Comment contribuer à multiBàO ? Réponse ici.
-image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plekhanov_cc-by-sa.jpg
+image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plekhanov_cc-by-sa.jpg?raw=true
 ---
 
 # Guide d'utilisation

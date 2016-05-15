@@ -14,6 +14,7 @@ Exercice: ajoute une phrase à la suite de ce paragraphe:
 
 Miam miam j'aime les éclairs aux spéculoos
 
+j'adore ce test !
 
 Cool, jl'édite ton doc!x
 

@@ -7,7 +7,9 @@ Rendez vous sur la fiche multiBàO que vous souhaitez modifier.
 Cliquez sur le logo éditeur, visible dans la partie haute gauche de la fiche.
 ![logo](https://framapic.org/tmnZlGFmc1PC/lPMGxuPbLWre.png)
 C'est en haut de l'éditeur, avant le contenu de la fiche, que vous allez renseigner les métadatas:
+
 ![metas](https://framapic.org/FqGk1aPiW3a2/BNGpCuhPjWD3.PNG)
+
 Trois informations sont à indiquer:
 * le titre: **title**
 * la description: **description**

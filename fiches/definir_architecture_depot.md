@@ -2,12 +2,12 @@
 
 ## Utilisation des dossiers et sous dossiers
 
-Si votre dépôt comporte plus de 5 fiches, nous vous recommandons de les répartir dans des dossiers, voire dans des sous dossiers. Cela rendra l'exploration plus agréable pour l'utilisateur.
+Si votre dépôt comporte plus de 7 fiches, nous vous recommandons de les répartir dans des dossiers, voire dans des sous dossiers. Cela rendra l'exploration plus agréable pour l'utilisateur.
 
 *Voir : [Créer des dossiers et des sous dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md).*
 
 Le plus simple est de répartir vos fiches de manière thématique : "Organisation collective", "Astuces coworking"...
-Idéalement, chaque dossier ne doit pas contenir plus de 7 fiches ([loi de Miller](https://fr.wikipedia.org/wiki/Le_nombre_magique_sept,_plus_ou_moins_deux)).
+Idéalement chaque dossier ne devrait pas contenir plus de 7 fiches ([loi de Miller](https://fr.wikipedia.org/wiki/Le_nombre_magique_sept,_plus_ou_moins_deux)).
 
 ## Ordre des fiches
 
@@ -27,4 +27,4 @@ Au lieu de nommer vos fiches "web_2.md", "flux_rss_syndication.md" et "licences_
 * 2-flux_rss_syndication.md
 * 3-licences_libres.md
 
-Pour que les numéros n'apparaissent pas dans le dépôt de fiches, n'oubliez pas de [renseigner le titre dans les métadatas](http://www.multibao.org/multibao/documentation/fiches/metadatas.md).
+Pour que les numéros n'apparaissent pas dans le dépôt de fiches, n'oubliez pas de [renseigner les métadatas](http://www.multibao.org/multibao/documentation/fiches/metadatas.md).

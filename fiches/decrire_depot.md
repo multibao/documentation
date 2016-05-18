@@ -12,6 +12,10 @@ Cette présentation sera visible sur http://multibao.org et sur http://github.co
 * Editer ce fichier README.md en utilisant soit l'éditeur de github, soit l'éditeur de multibao.org
 * Réaliser les modifications et enregistrer
 
+**Note:** Pour que votre dépôt soit présenté dans multiBàO comme dans l'exemple ci-dessous, nous vous invitons à renseigner des **métadatas** dans votre README. Retrouvez la marche à suivre pour indiquer les métadatas [en cliquant ici](http://www.multibao.org/multibao/documentation/fiches/metadatas.md).
+
+![depot](https://framapic.org/HfTvNFpE9wMv/WNdWwz61z1V9.PNG)
+
 ## Proposition de modèle pour présenter son dépôt de fiches
 
 1. En une phrase, accueillir les lecteurs

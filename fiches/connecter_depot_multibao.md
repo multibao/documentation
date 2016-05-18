@@ -7,9 +7,9 @@ https://github.com/multibao/organisations
 
 * Cliquez sur *Create new file*.
 * Nommez votre fiche de la même façon que les autres du dossier: X-nom-de-votre-organisation
-* Commencez par indiquer les métadatas de votre organisation: c'est ce qui permettra de l'afficher sur la page d'accueil de multiBàO.
+* Commencez par indiquer les métadatas de votre dépôt: c'est ce qui permettra de l'afficher sur la page d'accueil de multiBàO.
 
-[metas](https://framapic.org/AoDqHJ6XA5fE/Pbi9y8wJyF0l.PNG)
+[metas](https://framapic.org/AoDqHJ6XA5fE/Pbi9y8wJyF0l.png)
 
  * **title**: en quelques mots, de quoi parle votre dépôt
  * **label**: le nom de votre organisation

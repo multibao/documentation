@@ -2,17 +2,19 @@
 
 Pour ce faire, il vous faut un accès contributeur à http://github.com/multibao. Vous pouvez demander à n'importe quel contributeur existant de multiBàO. Ou écrire à thomas.wolff@cpcoop.fr pour lui demander de vous inviter ou de réaliser l'opération.
 
-Pour connecter votre dépôt github à multiBàO, éditez le document suivant: https://github.com/multibao/contributions/blob/master/_config.yml
+Pour connecter votre dépôt github à multiBàO, rendez-vous à l'adresse suivante:
+https://github.com/multibao/organisations
 
-A la suite des différents dépôts, rajoutez-y les informations de votre dépôt:
- * **label** correspondant au titre du dépôt qui apparaîtra sur multibao.org
- * **account** votre nom d'utilisateur
- * **repo** le dépôt dans lequel sont stockées les fiches
- * **folder** le menu dans lequel sont stockées les fiches
+* Cliquez sur *Create new file*.
+* Nommez votre fiche de la même façon que les autres du dossier: X-nom-de-votre-organisation
+* Commencez par indiquer les métadatas de votre organisation: c'est ce qui permettra de l'afficher sur la page d'accueil de multiBàO.
 
-Exemple pour le dossier de fiches "Réseau transition" (visibles sur github en suivant le lien http://github.com/reseautransitionwb/reseau_transition/contributions):
+[metas](https://framapic.org/AoDqHJ6XA5fE/Pbi9y8wJyF0l.PNG)
 
-* label: Réseau transition - c'est le nom qui apparaît sur multibao.org 
-* account: reseautransitionwb - c'est leur nom d'utilisateur
-* repo: reseau_transition - c'est le nom du dépôt
-* folder: contributions - c'est le nom du dossier où se trouvent les fiches
+ * **title**: en quelques mots, de quoi parle votre dépôt
+ * **label**: le nom de votre organisation
+ * **owner**: le pseudo github de votre organisation
+
+Séparez les métadatas du reste de la fiche par trois tirets (---), comme dans l'exemple.
+
+* A la suite, vous pouvez copier coller le contenu du README de votre dépôt.

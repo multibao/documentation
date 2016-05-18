@@ -39,7 +39,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 
 **Le B-A-BA. de l'architecture de notre dépôt de fiche**
 
-* définir l'architecture de mon dépôt de fiches
+* [définir l'architecture de mon dépôt de fiches](http://multibao.org/multibao/documentation/fiches/definir_architecture_depot.md)
 * [décrire aux lecteurs le dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
 

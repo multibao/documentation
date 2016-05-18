@@ -1,11 +1,13 @@
 # Renseigner les métadatas dans ma fiche
 
 Renseigner les métadatas permet de faire apparaître le titre et la description de votre fiche, ceci sur http://multibao.org et sur les moteurs de recherche. Vous pouvez aussi y ajouter une image, qui permettra d'illustrer la présentation de votre fiche sur multiBàO, de cette manière:
+
 ![presentation_fiche](https://framapic.org/zaOS0QnBbUsy/iqP66uaZxYMx.PNG)
 
-Rendez vous sur la fiche multiBàO que vous souhaitez modifier.
-Cliquez sur le logo éditeur, visible dans la partie haute gauche de la fiche.
+Rendez vous sur la fiche multiBàO que vous souhaitez modifier. Cliquez sur le logo éditeur.
+
 ![logo](https://framapic.org/tmnZlGFmc1PC/lPMGxuPbLWre.png)
+
 C'est en haut de l'éditeur, avant le contenu de la fiche, que vous allez renseigner les métadatas:
 
 ![metas](https://framapic.org/FqGk1aPiW3a2/BNGpCuhPjWD3.PNG)

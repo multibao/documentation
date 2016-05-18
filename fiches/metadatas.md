@@ -24,3 +24,5 @@ Séparez les métadatas du reste de la fiche avec **trois tirets (---)**, comme 
 * Elle doit être indiquée sous la forme d'une **adresse web**: vous pouvez utiliser [framapic](http://framapic.org], ou ajouter votre image sur Github, dans [le dossier media](https://github.com/multibao/contributions/tree/master/media) de multiBàO (*Upload files*, puis récupérer l'URL en faisant clic droit > copier l'adresse de l'image).
 
 Cliquez sur le logo *Sauvegarde* et renseignez les modifications que vous avez fait. Enregistrez.
+
+Pour indiquer les métadatas de votre **dépôt de fiches**, même opération, à réaliser dans le **README**.

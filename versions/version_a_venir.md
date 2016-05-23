@@ -33,11 +33,11 @@ La multi Boîte à Outils t'es ouverte si tu es impliqué dans la vie d'une équ
 
 ### Problématiques 
 
-Les problèmes que vous avez validés (intervies)
+Les problèmes que vous avez validés (interviews)
 
-* j'ai besoin des autres pour faire vivre des ressources sur internet (entretenir les données, mises en pages, relecture, enrichissements, ...). Jusqu'à là je le fais tout seul.
-* je doute que mes fiches soient compréhensibles et réutilisables par d'autres - je ne doute pas de mon honneteté intellectuelle quand j'écris une fiche, je doute que d'autres comprennent ce que je dis
-* déposer mes données à un endroit c'est restreignant: l'outil limite les choix de gouvernance et complique la possibilité de réutiliser notre travail pour d'autres usages (export en .doc, faire apparaître une ressource sur plusieurs sites, ...)
+* mes ressources ne sont pas entretenues > je suis seul à les entretenir, j'ai besoin des autres
+* mes ressources sont difficilement compréhensibles > je ne doute pas de mon honneteté intellectuelle, je doute que d'autres comprennent ce que j'écris 
+* lorsqu'on est plusieurs à mutualiser des ressources, je galère à définir qui modifie les ressources et comment > soit on est sur format dropbox plutôt fermé, soit un genre de wiki avec modification par tous
 
 ### Médias
 
@@ -52,7 +52,8 @@ Les problèmes que vous avez validés (intervies)
 ### Coûts
 
 * 40 jours bénévoles > Stéphane Langlois
-* 3000€ + 20 jours bénévoles > Thomas Wolff
+* 1500€ + 20 jours bénévoles > Thomas Wolff
+* 750€ > Nadine, David, Thomas
 * 7 jours bénévoles > Xavier Coadic
 * 20 jours bénévoles > Louise Berrotte 
 * + voir les contributeurs

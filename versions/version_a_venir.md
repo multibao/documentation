@@ -1,4 +1,4 @@
-# MultiBàO 1.0 (publication fin avril)
+# MultiBàO 1.0 
 
 Les informations présentées ci dessous ont été validées sur la base de séries d'interviews utilisateurs, toujours en cours.
 Ce présent document continuera à évoluer.

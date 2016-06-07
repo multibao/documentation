@@ -6,14 +6,14 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 
 # Guide d'utilisation
 
-* [j'aime envie de me tester sur multiBàO, là maintenant](http://multibao.org/documentation/test)
-* [je créé mon compte utilisateur](http://multibao.org/multibao/documentation/fiches/creer_compte.md) et je [me connecte](http://www.multibao.org/multibao/documentation/fiches/authentification.md)
-* [j'envoie à une équipe des propositions de modification d'une fiche](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
-* [je créé ma première fiche et je la visionne avec multiBàO](http://multibao.org/multibao/documentation/fiches/editer_fiche.md). J'[invite des membres de mon équipe](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md) à m'aider à l'entretenir. 
-* [on connecte notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de mon site et est tenue à jour automatiquement
-* on réfléchit notre dépôt de fiches pour qu'il soit [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
-* [on décide d'apparaître comme un collectif sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md)
-
+* [Me tester sur multiBàO, là maintenant](http://multibao.org/documentation/test)
+* [Créer mon compte utilisateur - gratuit](http://multibao.org/multibao/documentation/fiches/creer_compte.md)
+* [Envoyer à une équipe une proposition de modification de fiche](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
+* [Créer tout seul ma première fiche et la visionner avec multiBàO](http://multibao.org/multibao/documentation/fiches/editer_fiche.md). 
+* [Inviter des membres de mon équipe](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md) à m'aider à l'entretenir. 
+* [Connecter notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de notre site et est mise à jour automatiquement
+* Rendre notre dépôt de fiches [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
+* [Apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md) 
 
 **Ajouter ou modifier du contenu**
 
@@ -37,12 +37,9 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 * [pré-requis: respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * [option 1: créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
 * [Option 2: dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
-
-**Le B-A-BA. de l'architecture de notre dépôt de fiche**
-
 * [définir l'architecture de mon dépôt de fiches](http://multibao.org/multibao/documentation/fiches/definir_architecture_depot.md)
-* [décrire aux lecteurs le dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
+* [décrire aux lecteurs le dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 
 **Administrer un dépôt de fiches**
 

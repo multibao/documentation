@@ -5,7 +5,18 @@ On y a recours pour trouver des volumes dans la bibliothèque. On s’en sert au
 
 ## Comment créer une fiche ? 
 
-* Dans chaque dépôt, il y a un dossier nommé contributions possédant toutes les fiches. Rendez vous dans ce dépôt. [Exemple](https://github.com/multibao/contributions/tree/master/contributions).
+### Etape 1: créer un compte utilisateur
+
+* Aller sur www.github.com
+* Créer un compte: indiquer un nom d'utilisateur (en lettres minuscules), un e-mail et un mot de passe. 
+![créer compte](https://framapic.org/hNtt5YPYTpMX/q1Z7WIhcqssk.png)
+* Validez l'e-mail que vous avez reçu
+
+### Etape 2: se créer un dépôt de fiches
+
+
+
+
 * Créez une fiche en cliquant sur le + ("Create a new file here")
 * Vous êtes maintenant dans l'éditeur. C'est parti pour la création de fiche!
 

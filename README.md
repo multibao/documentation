@@ -13,19 +13,15 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 * [inviter des membres de mon équipe à m'aider à l'entretenir](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md) 
 * [connecter notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de notre site et est mise à jour automatiquement
 * Rendre notre dépôt de fiches [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
-* [Apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md) 
+* [apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md) 
 
-**Ajouter ou modifier du contenu**
+**Créer et modifier du contenu**
 
+* [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [mettre en forme le texte](http://multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
 * [insérer une image](http://multibao.org/multibao/documentation/fiches/inserer_image.md)
 * [créer des notes de bas de page](http://multibao.org/multibao/documentation/fiches/notes_pied_page.md)
 * [expliquer vos modifications](http://multibao.org/multibao/documentation/fiches/commenter_modification_ajout.md)
-
-**Créer du contenu**
-
-* [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
-* [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 
 **Interagir avec les autres utilisateurs**
 
@@ -34,7 +30,6 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 
 **Créer un dépôt de fiches**
 
-* [pré-requis: respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
 * [option 1: créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
 * [Option 2: dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [définir l'architecture de mon dépôt de fiches](http://multibao.org/multibao/documentation/fiches/definir_architecture_depot.md)

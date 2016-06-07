@@ -15,10 +15,21 @@ On y a recours pour trouver des volumes dans la bibliothèque. On s’en sert au
 ### Etape 2: se créer un dépôt de fiches
 
 
+Cliquez sur [New Repository](https://github.com/repositories/new).
+![image repo](https://github.s3.amazonaws.com/docs/bootcamp_2_newrepo.jpg)
 
+Remplissez l’information sur cette page :
+* Nom de votre dépôt
+* Description (en option)
+* Cliquez sur "initialize with a Readme"
 
-* Créez une fiche en cliquant sur le + ("Create a new file here")
-* Vous êtes maintenant dans l'éditeur. C'est parti pour la création de fiche!
+### Etape 3: créer sa première fiche
+
+* créez une fiche en cliquant sur le + ("Create a new file here")
+* donnez un nom à votre fiche, suivi de .md. Pour une fiche qui s'appelle pro-action-cafe, la nommer pro-action-cafe.md
+* allez en bas de l'écran, et cliquez sur "commit"
+
+> Vous venez de créer votre première fiche
 
 ## Important: choisir le nom de sa fiche 
 

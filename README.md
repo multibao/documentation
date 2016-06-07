@@ -6,9 +6,19 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 
 # Guide d'utilisation
 
+* [j'aime envie de me tester sur multiBàO, juste comme ça, sans compte sans rien](http://multibao.org/documentation/test)
+* [j'envoie à une équipe des propositions de modification d'une fiche](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
+* [je créé ma première fiche et je la visionne avec multiBàO](
+* [j'invite une équipe à entretenir à un dépôt de fiches et on le visionne avec multiBàO](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
+* [je connecte mon site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de mon site et est tenue à jour automatiquement
+* [partager notre dépôt de fiches sur multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md)
+
+
+
+
+
 **Vous tester**
 
-* [commencer le test](http://multibao.org/documentation/test)
 
 **Ajouter ou modifier du contenu**
 
@@ -55,10 +65,6 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 * [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
 * [transférer un dépôt d'un utilisateur vers une organisation](http://www.multibao.org/multibao/documentation/fiches/transferer_depot.md)
 * [faire apparaître mon dépôt de fiches sur multibao.org](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md)
-
-**Intégrer une fiche multiBàO dans mon site web**
-
-* [intégrer dans mon site web une ressource multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md)
 
 **Convertir ou télécharger une fiche**
 

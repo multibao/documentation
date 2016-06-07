@@ -6,12 +6,12 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 
 # Guide d'utilisation
 
-* [Me tester sur multiBàO, là maintenant](http://multibao.org/documentation/test)
-* [Créer mon compte utilisateur - gratuit](http://multibao.org/multibao/documentation/fiches/creer_compte.md)
-* [Envoyer à une équipe une proposition de modification de fiche](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
-* [Créer tout seul ma première fiche et la visionner avec multiBàO](http://multibao.org/multibao/documentation/fiches/editer_fiche.md). 
-* [Inviter des membres de mon équipe](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md) à m'aider à l'entretenir. 
-* [Connecter notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de notre site et est mise à jour automatiquement
+* [me tester sur multiBàO, là maintenant](http://multibao.org/documentation/test)
+* [créer mon compte utilisateur - gratuit](http://multibao.org/multibao/documentation/fiches/creer_compte.md)
+* [envoyer à une équipe une proposition de modification de fiche](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
+* [créer tout seul ma première fiche et la visionner avec multiBàO](http://multibao.org/multibao/documentation/fiches/editer_fiche.md). 
+* [inviter des membres de mon équipe à m'aider à l'entretenir](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md) 
+* [connecter notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de notre site et est mise à jour automatiquement
 * Rendre notre dépôt de fiches [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
 * [Apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md) 
 

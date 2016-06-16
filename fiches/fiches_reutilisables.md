@@ -1,4 +1,4 @@
-# Une fiche réutilisable, c'est... 
+# Une fiche réutilisable, c'est…
 
 ## 1) Une fiche publiée sous une licence libre
 
@@ -14,12 +14,12 @@ S'il y a plusieurs auteurs, plusieurs niveaux de licences peuvent être mentionn
 
 > **Exemple de citation d'une licence libre:** Le présent document est rédigé par Thomas Wolff selon les termes de la licence Creative Commons BY-SA.
 
-### De base: on vous propose des licences Creative Commons
+### De base, on vous propose des licences Creative Commons
 
 Il existe 6 types de licences Creative Commons. Ces licences libres, populaires, facilitent la réutilisation et la diffusion de vos contenus.
 Vous pouvez spécifier le niveau de restriction que vous souhaitez imposer à vos données. 
 
-**Creative Commons expliqué en 2 minutes en vidéo? C'est ci dessous.**
+**Creative Commons expliqué en 2 minutes en vidéo ? C'est ci-dessous.**
 
 <iframe src="https://player.vimeo.com/video/95488932" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

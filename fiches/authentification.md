@@ -1,6 +1,6 @@
 # S'authentifier 
 
-Vous avez la possibilité de vous authentifier:
+Vous avez deux possibilités pour vous authentifier
 
 ### via http://multibao.org
 

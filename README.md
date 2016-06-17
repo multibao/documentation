@@ -17,8 +17,6 @@ published: true
 * Rendre notre dépôt de fiches [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
 * [apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md) 
 
----
-
 ## Foire Aux Questions
 
 ### Comment est-ce que je fais pour ...

@@ -23,7 +23,7 @@ published: true
 
 ### Comment est-ce que je fais pour ...
 
-**Créer et modifier du contenu?**
+**créer et modifier du contenu?**
 
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [mettre en forme le texte](http://multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
@@ -31,12 +31,12 @@ published: true
 * [créer des notes de bas de page](http://multibao.org/multibao/documentation/fiches/notes_pied_page.md)
 * [expliquer vos modifications](http://multibao.org/multibao/documentation/fiches/commenter_modification_ajout.md)
 
-**Interagir avec les autres utilisateurs?**
+**interagir avec les autres utilisateurs?**
 
 * [envoyer des propositions de modification](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
 * [demander un accès contributeur à un dépôt de fiches](http://www.multibao.org/multibao/documentation/fiches/demander_acces_contributeur.md)
 
-**Créer un dépôt de fiches?**
+**créer un dépôt de fiches?**
 
 * [option 1: créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
 * [Option 2: dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
@@ -44,22 +44,22 @@ published: true
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
 * [décrire aux lecteurs le dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
 
-**Administrer un dépôt de fiches?**
+**administrer un dépôt de fiches?**
 
 * [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md)
 * [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/documentation/fiches/gerer_droits_depot.md)
 * [transférer un dépôt d'un utilisateur vers une organisation](http://www.multibao.org/multibao/documentation/fiches/transferer_depot.md)
 
-**Convertir ou télécharger une fiche?**
+**convertir ou télécharger une fiche?**
 
 * [convertir une fiche multiBàO en ... n'importe quel format (word, pdf, mediawiki...)](http://www.multibao.org/multibao/documentation/fiches/telecharger_fiche.md)
 
-**Intervenir sur multiBàO depuis mon ordinateur?**
+**intervenir sur multiBàO depuis mon ordinateur?**
 
 * [utiliser git pour travailler sur mon dépôt depuis mon ordinateur](http://rogerdudler.github.io/git-guide/index.fr.html)
 * [installer multiBàO sur mon serveur local](https://github.com/multibao/site)
 
-**Détourner multiBàO pour un autre usage?**
+**détourner multiBàO pour un autre usage?**
 
 * [Réutiliser le code de multibao](https://github.com/multibao/site)
 

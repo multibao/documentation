@@ -39,7 +39,7 @@ published: true
 **créer un dépôt de fiches?**
 
 * [option 1: créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
-* [Option 2: dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
+* [option 2: dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [définir l'architecture de mon dépôt de fiches](http://multibao.org/multibao/documentation/fiches/definir_architecture_depot.md)
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
 * [décrire aux lecteurs le dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)

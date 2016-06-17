@@ -61,7 +61,7 @@ published: true
 
 **détourner multiBàO pour un autre usage?**
 
-* [Réutiliser le code de multibao](https://github.com/multibao/site)
+* [réutiliser le code de multibao](https://github.com/multibao/site)
 
 ---
 

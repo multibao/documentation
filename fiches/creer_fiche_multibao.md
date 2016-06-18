@@ -51,7 +51,9 @@ Exemples de noms de fiches:
   
 ## Visionner la fiche avec multiBàO
 
-Si le lien github vers votre fiche est: http://github.com/#cpcoop/pepites_collaboratives_glanees/blob/master/classe_inversee.md
-Le lien pour visionner votre fiche sur multiBàO sera: http://multibao.org/#cpcoop/pepites_collaboratives_glanees/blob/master/classe_inversee.md  
+Si le lien github vers votre fiche est: http://github.com/cpcoop/pepites_collaboratives_glanees/blob/master/classe_inversee.md
+Le lien pour visionner votre fiche sur multiBàO sera: http://multibao.org/#cpcoop/pepites_collaboratives_glanees/blob/master/classe_inversee.md 
+
+> En bref: ajoutez un # après http://multibao.org/# suivi du nom de votre organisation/compte http://multibao.org/#nomdemonorganisation, puis de la localisation de votre fiche http://multibao.org/#nomdemonorganisation/nomdemondepot/blob/master/nomdemafiche.md
   
 **Félicitations**

@@ -1,3 +1,9 @@
+---
+title: Ready ? Proposer des modifications
+description: Proposer des modifications à une fiche ... qui n'est pas à moi/nous
+image_url: 
+---
+
 # Je modifie des fiches ou propose mes modifications
 
 > Tu sais éditer une fiche, ajouter des paragraphes, écrire en gras, en italique. Tu peux maintenir intervenir sur *toutes* les ressources de multiBàO.

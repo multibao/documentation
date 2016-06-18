@@ -4,7 +4,7 @@
 
 Vous êtes membre d'une équipe. Vous avez créé un dépôt de fiches liées aux pratiques de votre équipe, mais avec votre compte utilisateur Github. Pour que vous puissiez être plusieurs à contribuer dans ce dépôt, il va vous falloir le transférer vers l'organisation de votre équipe.
 
-Votre équipe n'a pas encore d'organisation sur Github? [Cliquez ici](http://www.multibao.org/multibao/documentation/test/ready_3.md).
+Votre équipe n'a pas encore d'organisation sur Github? [Cliquez ici](http://www.multibao.org/#multibao/documentation/blob/master/test/ready_3.md).
 
 ## Marche à suivre
 

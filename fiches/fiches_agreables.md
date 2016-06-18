@@ -2,7 +2,7 @@
 
 ## 1) Une fiche esthétique
 
-* respectez les différents niveaux de titre et autres critères de [mise en forme du texte](http://www.multibao.org/multibao/documentation/fiches/mise_forme_texte.md)
+* respectez les différents niveaux de titre et autres critères de [mise en forme du texte](http://www.multibao.org/#multibao/documentation/blob/master/fiches/mise_forme_texte.md)
 * veillez à ce que les images ne fassent pas plus 640 px de large (sans quoi elles "dépassent")
 
 ## 2) Une fiche correctement écrite

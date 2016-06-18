@@ -1,3 +1,9 @@
+---
+title: 3eme test
+description: J'apprends à écrire des titres
+image_url: 
+---
+
 # J'écris des titres
 
 Observe le texte ci-dessous et les différentes tailles des titres. Puis, ouvre l'éditeur pour comprendre comment ça marche.

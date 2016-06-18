@@ -1,3 +1,9 @@
+---
+title: 2ème test
+description: Gérer le gras et l'italique
+image_url: 
+---
+
 #Gras et italique
 
 Si tu gères le gras et l'italique tu peux facilement intervenir sur ... l'intégralité des ressources présentées sur multiBàO.

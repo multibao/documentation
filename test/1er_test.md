@@ -1,3 +1,9 @@
+---
+title: Premier test: cliques ici
+description: Apprends à ajouter une phrase à cette fiche
+image_url:
+---
+
 # Ajouter une phrase à cette fiche
 
 Tu vois le bouton "éditer" en haut à gauche de la fiche?

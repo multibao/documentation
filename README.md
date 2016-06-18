@@ -11,7 +11,7 @@ published: true
 * [me tester sur multiBàO, là maintenant](http://multibao.org/#multibao/documentation/tree/master/test)
 * [créer mon compte utilisateur - gratuit](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_compte.md)
 * [envoyer à une équipe une proposition de modification de fiche](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md)
-* [créer tout seul ma première fiche et la visionner avec multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_fiche_multibao.md) 
+* [créer ma première fiche et la visionner avec multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_fiche_multibao.md) 
 * [inviter des membres de mon équipe à m'aider à l'entretenir](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_ses_collaborateurs.md) 
 * [faire apparaître sur notre site une fiche multiBàO qui sera mise à jour automatiquement](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md)
 * Rendre notre dépôt de fiches [utile](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_reutilisables.md)

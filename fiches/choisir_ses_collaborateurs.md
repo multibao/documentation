@@ -29,7 +29,9 @@ Créer une organisation, c'est la première étape pour pouvoir publier tes ress
 * Donne le nom que tu souhaites à ton organisation (tu pourras toujours le changer plus tard), indique ton e-mail et choisis *Opensource*. Puis valide.
 * Dans l'étape d'après, tu as la possibilité d'inviter des nouveaux membres à ton organisation. 
 * Clique sur *Finish*.
-* Ca y est! Le lien de la page de ton organisation est : http://github.com/nomdevotreorganisation.
+* Ca y est! Le lien de la page de ton organisation est : http://github.com/nomdevotreorganisation
+
+> A partir de maintenant, tu peux dores et déjà visionner ton organisation sur http://multibao.org/#nomdevotreorganisation
 
 ## Cas 3: vous avez un dépôt lié à votre nom propre, vous êtes plusieurs à y contribuer, et vous souhaitez maintenant le lier à une organisation
 

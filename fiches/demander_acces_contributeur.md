@@ -14,7 +14,7 @@ Pour pouvoir contribuer un dépôt de fiches ... je vais échanger avec celles e
 
 * Je me rends sur le dépôt de fiches qui m'intéresse
 * Je lis la description du dépôt de fiches en consultant le README.md
-* Si je ne trouve pas ce fichier, je peux le consulter en indiquant dans ma barre d'adresse http://www.multibao.org/nomdelorganisationquejeconsulte/nomdudepotdefichesquejeconsulte/README.md
+* Si je ne trouve pas ce fichier, je peux le consulter en indiquant dans ma barre d'adresse http://www.multibao.org/#nomdelorganisation
  * Ils ont indiqué leurs coordonnées: chouette. Je les contacte.
  * Je ne trouve pas les coordonnées.
 * Si je n'ai pas trouvé les coordonnées, je peux me rendre sur http://github.com/nomdelorganisation. Dans la partie gauche de l'écran il y a le plus souvent un lien vers une adresse e-mail ou un site web sur lequel vous trouverez les contacts.

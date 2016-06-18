@@ -26,10 +26,12 @@ https://github.com/multibao/organisations
 * Nommez votre fiche de la même façon que les autres du dossier: X-nom-de-votre-organisation
 * Commencez par indiquer les métadatas de votre dépôt: c'est ce qui permettra de l'afficher sur la page d'accueil de multiBàO.
 
-[metas](https://framapic.org/AoDqHJ6XA5fE/Pbi9y8wJyF0l.png)
+![metas](https://framapic.org/AoDqHJ6XA5fE/Pbi9y8wJyF0l.png)
 
  * **title**: en quelques mots, de quoi parle votre dépôt
  * **label**: le nom de votre organisation
  * **owner**: le pseudo github de votre organisation
 
 Séparez les métadatas du reste de la fiche par trois tirets (---), comme dans l'exemple.
+
+Bienvenue :)

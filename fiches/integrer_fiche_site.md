@@ -12,7 +12,7 @@ Prenons l'exemple de la fiche [Fabrique de Roubaix](http://www.multibao.org/alec
 
 Le lien hypertexte de la fiche est le suivant : 
 
-> http://www.multibao.org/alecoz/democratie_ouverte/contributions/la_fabrique_roubaix.md
+> http://www.multibao.org/#alecoz/democratie_ouverte/blob/master/contributions/la_fabrique_roubaix.md
 
 La fiche "la_fabrique_de_roubaix" se trouve dans le dossier "contributions", lui même sous-dossier du dossier "démocratie_ouverte", dont "alecoz" est le propriétaire.
 
@@ -24,7 +24,7 @@ Pour insérer une fiche de multibào dans votre site, il vous faut insérer le c
 
 Démonstration pour la fiche "La fabrique de Roubaix"
 
-> http://www.multibao.org/alecoz/democratie_ouverte/contributions/la_fabrique_roubaix.md
+> http://www.multibao.org/#alecoz/democratie_ouverte/blob/master/contributions/la_fabrique_roubaix.md
 
 Le code à insérer est le suivant: 
 
@@ -40,4 +40,4 @@ La fiche sera automatiquement mise à jour dès qu'il y aura une modification.
 
 **Q: Sur ma fiche, il y a partout des # et des ##, mon site ne marche pas bien?**
 
-> R: Non, c'est la fiche qui a mal été documentée. Les fiches sont écrites en langage Markdown et c'est ce que votre site devrait pouvoir reconnaître naturellement. Si cela ne marche pas c'est car la syntaxe a été mal indiquée. Les # représentent la syntaxe des titres. Si vous avez ce problème c'est sûrement car le rédacteur de la fiche n'a pas laissé d'espace entre le # et le titre. Comme #titre alors qu'il faudrait le rédiger sous la forme # titre (avec un espace). Je peux vous proposer de soit [directement modifier la ressource via l'éditeur](http://www.multibao.org/multibao/contributions/pages/enrichir_les_ressources_communes_existantes_via_l_editeur.md) et d'ajouter les espaces, soit de contacter le contributeur, soit de me contacter: 0642459781 ou [mail](mailto:thomas.wolff@cpcoop.fr)
+> R: Non, c'est la fiche qui a mal été documentée. Les fiches sont écrites en langage Markdown et c'est ce que votre site devrait pouvoir reconnaître naturellement. Si cela ne marche pas c'est car la syntaxe a été mal indiquée. Les # représentent la syntaxe des titres. Si vous avez ce problème c'est sûrement car le rédacteur de la fiche n'a pas laissé d'espace entre le # et le titre. Comme #titre alors qu'il faudrait le rédiger sous la forme # titre (avec un espace). [Envoyez une proposition de modification au propriétaire de la fiche](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md), pour l'avertir tout en lui proposant la bonne mise en page. 

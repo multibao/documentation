@@ -1,3 +1,9 @@
+---
+title: Ready? Je créé mon propre compte utilisateur
+description: Créer et se connecter avec son compte utilisateur pour publier et interagir
+image_url: 
+---
+
 # Je crée mon compte multiBàO
 
 ## Avoir un compte utilisateur sur multiBàO
@@ -20,14 +26,15 @@ Sur GitHub, les fiches sont regroupées sous des organisations et des dépôts.
 
 Prenons l'exemple de multiBàO :
 * Ouvre un nouvel onglet ou une nouvelle page web et rends-toi sur http://multibao.org/
-* Dans la partie gauche de l'écran, ouvre *Réseau Transition Belgique*.
-* Ouvre le dépôt de fiches *Ingrédients de transition*.
-* Ouvre la fiche *Ingredient01: Démarrer Former Un Groupe*.
+* Dans la partie gauche de l'écran, ouvre *Cpcoop*
+* Ouvre le dépôt de fiches *Animer des ateliers collaboratifs*
+* Ouvre le dossier de fiches *Faire connaissance*
+* Ouvre la fiche *Débat mouvant*
 
-Réseau Transition Belgique, c'est une **organisation**. Il s'agit de l'association www.reseautransition.be. Il y a plusieurs contributeurs qui entretiennent les dépôts de fiches.
+Cpcoop, c'est une **organisation**. Il s'agit de l'association www.reseautransition.be. Il y a plusieurs contributeurs qui entretiennent les dépôts de fiches.
 
-Ingrédients de transition, c'est un **dépôt de fiches thématiques**. Réseau Transition Belgique peut décider d'inviter des contributeurs particuliers, qui seront limités à ce dépôt de fiches.
+Animer des ateliers collaboratifs, c'est un **dépôt de fiches thématiques**. Cpcoop peut décider d'inviter des contributeurs particuliers, qui seront limités à ce dépôt de fiches.
 
-Ingredient01: Démarrer Former Un Groupe, c'est une **fiche**.
+Débat mouvant, c'est une **fiche**.
 
-Pour publier tes ressources, tu vas donc créer ton organisation et ton premier dépôt. Rends-toi au Ready3 !
+Pour publier tes ressources, tu vas donc créer ton organisation et ton premier dépôt. 

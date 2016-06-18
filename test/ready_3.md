@@ -1,7 +1,7 @@
 ---
 title: Ready? Je créé notre organisation et ma première fiche
 description: Je créé ma première organisation, j'invite mes potes et on créé une fiche
-image_url:
+image_url: 
 ---
 
 # Je crée des fiches !

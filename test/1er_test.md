@@ -1,7 +1,7 @@
 ---
-title: Premier test, cliques ici
+title: 1er test, cliques ici
 description: Apprends à ajouter une phrase à cette fiche
-image_url:
+image_url: 
 ---
 
 # Ajouter une phrase à cette fiche

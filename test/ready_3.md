@@ -1,3 +1,9 @@
+---
+title: Ready? Je créé notre organisation et ma première fiche
+description: Je créé ma première organisation, j'invite mes potes et on créé une fiche
+image_url:
+---
+
 # Je crée des fiches !
 
 ## Crée ton organisation
@@ -32,7 +38,8 @@ L'adresse de ton dépot de fiches est maintenant : http://github.com/*nomdevotre
 * Toi et les autres membres avez maintenant la main sur l'intégralité des fiches, indépendamment du dépôt de fiches initial. 
 * Le dépôt de fiches que tu viens de "forker"/dupliquer contient toutes les ressources nécessaires pour apprendre à créer des fiches, inviter du monde, suivre les contributions, recevoir des contributions des autres réseaux.
 
-Ouvre un nouvel onglet et indique l'adresse web suivante en mettant à jour le nom de ton organisation : http://multibao.org/#*nomdevotreorganisation*/jemeteste.
+Ouvre un nouvel onglet et indique l'adresse web suivante en mettant à jour le nom de ton organisation : http://multibao.org/#*nomdevotreorganisation*.
+
 * Voilà, multiBàO est ici utilisé comme visionneuse! L'avantage, c'est que les fonctionnalités de multiBàO sont ouvertes à tes ressources (éditeur, *Anywhere*).
 
 **Pas de Ready 4**, la documentation qui nous semble nécessaire est sur ton nouveau dépôt de fiches. Pour écrire tes propres fiches, tu peux directement les modifier dans ce dépôt. Tu pourras toujours retrouver cette documentation dans http://github.com/multibao/modele_de_depot.

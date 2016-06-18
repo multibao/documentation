@@ -1,5 +1,5 @@
 ---
-title: Premier test: cliques ici
+title: Premier test, cliques ici
 description: Apprends à ajouter une phrase à cette fiche
 image_url:
 ---

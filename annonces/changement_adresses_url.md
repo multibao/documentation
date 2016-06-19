@@ -18,7 +18,11 @@ Exemple avec la fiche [Classe inversée](https://multibao.org/#cpcoop/pepites_co
 
 Une fiche avec l'url github http://github.com/liendelafiche.md peut se visionner avec multiBàO sur http://multibao.org/#liendelafiche.md
 
-Vous pouvez donc facilement visionner avec multiBàO.org vos cours, supports de formations, statuts d'association, et ceci indépendemment du fait que les ressources sont accessibles ou non via la page d'accueil de multibao.org. Avec cette nouvelle version, vous pouvez partager ergonomiquement des dépôts de fiches. 
+A vrai dire, vous pouvez avec cette nouvelle version herberger des dépôts de fiches sur github.com, et les présenter ergonomiquement avec multiBàO pour les partager, et ceci indépendemment du fait que les ressources soient accessibles ou non via la page d'accueil de multiBàO.org. 
+
+Vous pouvez donc facilement visionner avec multiBàO.org vos cours, supports de formation, statuts et toute fiche hebergée sur github. 
+
+Les réponses quant à l'utilisation de multiBàO sont dans le [guide d'utilisation](#multibao/documentation/blob/master/README.md).
 
 ## A tous les blogeurs qui ont présenté des liens de fiches multiBàO sur leur blog
 

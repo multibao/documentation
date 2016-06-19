@@ -18,9 +18,7 @@ Exemple avec la fiche [Classe inversée](https://multibao.org/#cpcoop/pepites_co
 
 Une fiche avec l'url github http://github.com/liendelafiche.md peut se visionner avec multiBàO sur http://multibao.org/#liendelafiche.md
 
-Vous pouvez avec cette nouvelle version multiBàO visionner de manière ergonomique fiches, dossiers, dépôts hebergés sous github. Que ces dépôts soient liés à multiBàO ou non.
-
-Vous pouvez donc à ce jour facilement visionner vos supports de cours ou de formation, documents de vos associations/entreprises ou toute ressource hébergée sous github.com.
+Vous pouvez donc utiliser multiBàO pour visionner de manière ergonomique fiches, dossiers, dépôts hebergés sous github. Que ces dépôts soient liés à multiBàO ou non (supports de cours ou de formation, logistique de votre asso, ...). Vous bénéficierez ainsi de toutes les fonctionnalités de multiBàO et ses évolutions. 
 
 Les réponses quant à l'utilisation de multiBàO sont dans le [guide d'utilisation](#multibao/documentation/blob/master/README.md).
 

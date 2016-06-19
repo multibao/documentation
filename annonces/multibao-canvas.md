@@ -1,14 +1,13 @@
 # MultiBàO 1.0 
 
 Les informations présentées ci dessous ont été validées sur la base de séries d'interviews utilisateurs, toujours en cours.
-Ce présent document continuera à évoluer.
 Date de mise à jour: voir dernier commit ;) 
 
 ## multiBàO 1.0
 
 ### Proposition Unique de Valeur 
 
-Partager et faire évoluer nos apprentissages sur le faire-ensemble.  
+Partager tes expériences avec d'autres organisations
 
 ### Métaphore 
 

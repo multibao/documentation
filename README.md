@@ -8,6 +8,7 @@ published: true
 
 # Guide d'utilisation
 
+* [découvrir multiBàO](http://www.multibao.org/#multibao/contributions/blob/master/pages/commencer_ici.md)
 * [me tester sur multiBàO, là maintenant](http://multibao.org/#multibao/documentation/tree/master/test)
 * [créer mon compte utilisateur - gratuit](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_compte.md)
 * [envoyer à une équipe une proposition de modification de fiche](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md)

@@ -3,7 +3,7 @@
 ## Conversion au format Word, OpenOffice ou LibreOffice
 
 C'est l'opération la plus simple.
-Selectionnez le contenu de la fiche multiBàO que vous souhaitez convertir et de le copier directement (clic droit - copier ou CTRL-C), sans passer par l'éditeur.
+Sélectionnez le contenu de la fiche multiBàO que vous souhaitez convertir et copiez-le directement (clic droit - copier ou CTRL-C), sans passer par l'éditeur.
 Ouvrez un nouveau document Word, OpenOffice ou LibreOffice et collez. La mise en page de multiBàO est respectée.
 
 ## Conversion via http://pandoc.org/try vers une trentaine de formats web 

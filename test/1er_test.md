@@ -1,7 +1,8 @@
 ---
-title: 1er test, cliques ici
+title: '1er test, cliques ici'
 description: Apprends à ajouter une phrase à cette fiche
-image_url: 
+image_url: null
+published: true
 ---
 
 # Ajouter une phrase à cette fiche
@@ -24,6 +25,7 @@ Phrases des visiteurs :
 "J'adore ce test !"
 "Cool, jl'édite ton doc!x"
 J'ajoute une phrase...
+hey hey! vive le skatalo :-)
 
 Avant de sauvegarder ta modification (en haut à droite, la petite disquette old school), tu peux te promener sur la partie droite de l'éditeur avec ses logos. Puis enregistre ta fiche en cliquant sur la disquette. 
 Retourne sur la fiche en format multiBàO et recharge la page web de la fiche.

@@ -1,9 +1,7 @@
 ---
 title: Guide d'utilisation
 description: Comment contribuer à multiBàO ? Réponse ici.
-image_url: >-
-  https://github.com/multibao/contributions/blob/master/media/ilya_plekhanov_cc-by-sa.jpg?raw=true
-published: true
+image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plekhanov_cc-by-sa.jpg?raw=true
 ---
 
 # Guide d'utilisation
@@ -16,7 +14,8 @@ published: true
 * [inviter des membres de mon équipe à m'aider à l'entretenir](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_ses_collaborateurs.md) 
 * [présenter sur mon blog une fiche multiBàO](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md), elle sera mise à jour automatiquement
 * Rendre notre dépôt de fiches [utile](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_reutilisables.md)
-* [apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/connecter_depot_multibao.md) 
+* [apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/connecter_depot_multibao.md)
+* [créer ma plateforme web personnalisée](http://www.multibao.org/#multibao/documentation/blob/master/fiches/creer_ma_plateforme_personnalisee.md)
 
 ## Foire Aux Questions
 

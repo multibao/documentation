@@ -30,7 +30,8 @@ Vous avez maintenant une copie de multiBàO sur votre compte.
 
 1. Ouvrez dans le fichier *index.html*.
 2. Modifiez la balise *title* dans le *header*.
-3. Modifiez le titre dans le *body* : \<\h1>\<\a href="">multi\<\span>BàO\<\/span>\<\/a>\<\/h1>.
+3. Modifiez le titre dans le *body* : 
+\<\h1>\<\a href="">multi\<\span>BàO\<\/span>\<\/a>\<\/h1>.
 
 ### Pour modifier l'image de la page d'accueil
 

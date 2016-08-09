@@ -40,9 +40,9 @@ Vous avez maintenant une copie de multiBàO sur votre compte.
 
 ### Pour modifier les deux phrases de présentation et la désignation des 2 boutons (page d'accueil)
 
-* Éditez le fichier *config.js*
-* Remplacez les éléments suivants par les éléments souhaités:
-* 
+1. Éditez le fichier *config.js*
+2. Remplacez les éléments suivants par les éléments souhaités:
+
 MULTIBAO.UVP1 = '*S\'inspirer des autres cultures*'
 
 MULTIBAO.UVP2 = '*Rédiger et partager vos expériences*'
@@ -51,17 +51,15 @@ MULTIBAO.BUTTON1 = '*Commencer ici*'
 
 MULTIBAO.BUTTON2 = '*Guide d\'utilisation*'
 
-* Sauvegardez
-
 ### Pour modifier les dépôts ou dossiers ou fichiers à faire apparaître via la page d'accueil
 
-* Éditez le fichier *config.js*
-* A la place de GH.OWNER = '*multibao*', remplacez *multibao* par votre nom de compte (celui sur lequel vous avez forké votre site).
-* Sur votre compte, créez un repository sur [new repository](https://github.com/repositories/new) que vous nommerez *organisations*
-* Créez votre première fiche, avec le format *nomdelafiche.md*
-* Indiquez les éléments suivants:
+1. Éditez le fichier *config.js*
+2. A la place de GH.OWNER = '*multibao*', remplacez *multibao* par votre nom de compte (celui sur lequel vous avez forké votre site).
+3. Sur votre compte, créez un repository sur [new repository](https://github.com/repositories/new) que vous nommerez *organisations*
+4. Créez votre première fiche, avec le format *nomdelafiche.md*
+5. Indiquez les éléments suivants:
 
----
+\---
 
 title: *deuxième titre*
 
@@ -69,7 +67,7 @@ label: *premier titre*
 
 owner: *lien du dépôt, dossier ou fichier que vous souhaitez faire apparaître*
 
----
+\---
 
 Vous trouverez [ici](https://github.com/multibao/organisations) des exemples existants.
 

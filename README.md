@@ -4,7 +4,7 @@ description: Comment contribuer à multiBàO ? Réponse ici.
 image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plekhanov_cc-by-sa.jpg?raw=true
 ---
 
-# Guide d'utilisation pour contributeurs et blogeurs
+# Guide d'utilisation
 
 * [créer ma première fiche et la visionner avec multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_fiche_multibao.md) 
 * [envoyer une proposition de modification d'une fiche](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md)

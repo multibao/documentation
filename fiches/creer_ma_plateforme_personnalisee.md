@@ -9,7 +9,6 @@ Vous avez la possibilité de créer une plateforme collaborative personnalisée 
 1. [Inscrivez vous sur github.com/join et connectez vous avec votre compte utilisateur](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_compte.md)
 2. Rendez vous sur [https://github.com/daktary-team/daktary](https://github.com/daktary-team/daktary), qui est l'espace où la technologie http://multibao.org est hebergée
 3. Cliquez sur l'icône *Fork*, en haut à droite de votre écran. En cliquant sur *Fork* vous dupliquez le site daktary sur votre propre compte.
-![fork_repo](https://github.com/multibao/guideutilisateur#fork-destination-box)
 
 Vous avez maintenant une copie de multiBàO sur votre compte.
 
@@ -53,16 +52,16 @@ MULTIBAO.BUTTON2 = '*Guide d\'utilisation*'
 
 * Éditez le fichier *config.js*
 * A la place de GH.OWNER = '*multibao*', remplacez *multibao* par votre nom de compte (celui sur lequel vous avez forké votre site).
-* Sur votre compte, créez un repository sur [new repository](https://github.com/repositories/new).
-![image repo](https://github.s3.amazonaws.com/docs/bootcamp_2_newrepo.jpg) que vous nommerez *organisations*
+* Sur votre compte, créez un repository sur [new repository](https://github.com/repositories/new) que vous nommerez *organisations*
 * Créez votre première fiche, avec le format *nomdelafiche.md*
 * Indiquez les éléments suivants:
 /---
-title: deuxième titre
-label: premier titre
-owner: lien du dépôt, dossier ou fichier que vous souhaitez faire apparaître
+title: *deuxième titre*
+label: *premier titre*
+owner: *lien du dépôt, dossier ou fichier que vous souhaitez faire apparaître*
 /---
-Vous trouverez [ici](https://github.com/multibao/organisations) des exemples.
+
+Vous trouverez [ici](https://github.com/multibao/organisations) des exemples existants.
 
 ### Pour modifier le CSS
 

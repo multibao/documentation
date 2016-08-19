@@ -6,7 +6,7 @@ Cette fiche présente comment convertir différents formats d'écriture numériq
 
 Si le hackpad que vous souhaitez exporter en format markdown est le suivant: https://hackpad.com/OMM-Summer-Camp-24-au-29-juillet-uVe7EIGFThR, alors l'export se fera à partir de l'adresse web suivante: https://hackpad.com/ep/pad/export/uVe7EIGFThR/latest?format=md. L'identifiant du hackpad est *uVe7EIGFThR* est le format demandé *md*. 
 
-Si le hackpad que vous souhaitez exporter en format markdown est le suivant: https://omm.hackpad.com/OMM-Summer-Camp-24-au-29-juillet-uVe7EIGFThR, alors l'esport se fera à partir de l'adresse web suivante: https://omm.hackpad.com/ep/pad/export/uVe7EIGFThR/latest?format=md. Le nom de l'équipe est *omm*, l'identifiant du hackpad est *uVe7EIGFThR* est le format demandé *md*. 
+Si le hackpad que vous souhaitez exporter en format markdown est le suivant: https://omm.hackpad.com/OMM-Summer-Camp-24-au-29-juillet-uVe7EIGFThR, alors l'esport se fera à partir de l'adresse web suivante: https://omm.hackpad.com/ep/pad/export/uVe7EIGFThR/latest?format=md. Le nom de l'équipe est *omm*.
 
 ## Convertir un fichier word sous la forme d'un fichier markdown
 

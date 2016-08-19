@@ -2,8 +2,6 @@
 
 Vous avez la possibilité de créer une plateforme collaborative personnalisée avec les mêmes fonctionnalités de multiBàO.org.
 
-**Insérer ici un exemple réalisé comme le Summercamp**
-
 ## Etape 1: installer multibao sur votre compte
 
 1. [Inscrivez vous sur github.com/join et connectez vous avec votre compte utilisateur](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_compte.md)
@@ -19,10 +17,16 @@ Vous avez maintenant une copie de multiBàO sur votre compte.
 1. Éditez le fichier *CNAME* et remplacez le nom de domaine http://multibao.org par votre nom de domaine.
 2. Renseignez les informations à votre fournisseur de domaine DNS.
 
-### Option 2: vous n'avez pas de nom de domaine
+### Option 2: vous n'avez pas de nom de domaine et avez forké daktary sur votre compte personnel
 
 1. Supprimez le fichier *CNAME*.
-2. Votre site est dès maintenant disponible sur https://*votrenomdecompte*.github.io/daktary/. 
+2. Votre site est dès maintenant disponible sur https://*votrenomdecompte*.github.io/daktary/ 
+
+### Option 3: vous n'avez pas de nom de domaine et avez forké daktary sur un compte d'organisation
+
+1. Supprimez le fichier *CNAME*.
+2. Dans *Settings*, renommez votre dépôt daktary avec le nom suivant *nomdorganisation.github.io*
+3. Votre site est dès maintenant disponible sur https://nomdorganisation.github.io
 
 ## Etape 3: personnalisez votre site
 

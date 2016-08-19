@@ -54,6 +54,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 ### Convertir ou télécharger une fiche?
 
 * [convertir une fiche multiBàO en ... n'importe quel format (word, pdf, mediawiki...)](http://www.multibao.org/#multibao/documentation/blob/master/fiches/telecharger_fiche.md)
+* [convertir ou exporter un fichier numérique en format markdown](http://www.multibao.org/#multibao/documentation/blob/master/fiches/convertir_exporter_format_markdown.md)
 
 ### Intervenir sur multiBàO depuis mon ordinateur?
 

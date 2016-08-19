@@ -1,6 +1,12 @@
+---
+title: Convertir ou exporter un document numérique en format markdown
+description: Convertir des fichiers .doc .html ..., ou des documents numériques (hackpad, ...) en format [markdown](http://multibao.org/#multibao/documentation/blob/master/fiches/mise_forme_texte.md) .md.
+image_url: 
+---
+
 # Convertir ou exporter un document numérique en format markdown
 
-Cette fiche présente comment convertir différents formats d'écriture numérique *.doc* *.html* ..., en format [markdown](http://multibao.org/#multibao/documentation/blob/master/fiches/mise_forme_texte.md) *.md*.
+Cette fiche présente comment convertir des fichiers *.doc* *.html* ..., en format [markdown](http://multibao.org/#multibao/documentation/blob/master/fiches/mise_forme_texte.md) *.md*.
 
 ## Exporter un hackpad sous la forme d'un fichier markdown
 

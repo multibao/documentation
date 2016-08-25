@@ -19,11 +19,11 @@ En deux minutes et sans effort.
 
 Si l'adresse du hackpad que vous souhaitez exporter en format markdown est la  suivante: 
 
-https://hackpad.com/OMM-Summer-Camp-24-au-29-juillet-**uVe7EIGFThR**, 
+https://hackpad.com/OMM-Summer-Camp-24-au-29-juillet-uVe7EIGFThR, 
 
-alors l'export se fera à partir de l'adresse web suivante: https://hackpad.com/ep/pad/export/**uVe7EIGFThR**/latest?format=md. 
+alors l'export se fera à partir de l'adresse web suivante: https://hackpad.com/ep/pad/export/uVe7EIGFThR/latest?format=md. 
 
-L'identifiant du hackpad **uVe7EIGFThR** est le format demandé *md*. 
+L'identifiant du hackpad **uVe7EIGFThR** (en fin d'adresse IP) est le format demandé *md*. 
 
 Dans un nouvel onglet web, placé dans la barre d'adresse : https://hackpad.com/ep/pad/export/**IndentifiantdeMonPad**/latest?format=md. Puis vous cliquez sur Enter pour télécharger le hackapd choisi au format makrdown sur votre ordinateur.
 

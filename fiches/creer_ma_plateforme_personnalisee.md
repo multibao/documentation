@@ -20,7 +20,8 @@ Vous avez maintenant une copie de multiBàO sur votre compte.
 ### Option 2: vous n'avez pas de nom de domaine et avez forké daktary sur votre compte personnel
 
 1. Supprimez le fichier *CNAME*.
-2. Votre site est dès maintenant disponible sur https://*votrenomdecompte*.github.io/daktary/ 
+2. Dans *Settings*, allez à la zone github pages et dans le menu déroulant choisissez *master_branch* comme source de publication.  
+3. Votre site est dès maintenant disponible sur https://*votrenomdecompte*.github.io/daktary/ 
 
 ### Option 3: vous n'avez pas de nom de domaine et avez forké daktary sur un compte d'organisation
 
@@ -78,16 +79,3 @@ Vous trouverez [ici](https://github.com/multibao/organisations) des exemples exi
 ### Pour modifier le CSS
 
 * Éditez le fichier *custom.css*
-
-
-
-
-
-
-
-
-
-
-
-
-

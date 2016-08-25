@@ -56,6 +56,18 @@ MULTIBAO.BUTTON1 = '*Commencer ici*'
 
 MULTIBAO.BUTTON2 = '*Guide d\'utilisation*'
 
+### Pour modifier la cible des liens des boutons de la page d'accueil
+
+Les liens des boutons désignés comme  MULTIBAO.BUTTON1 et MULTIBAO.BUTTON2 sont inscrit en durs pour renvoyer vers la documentation de multibao. Cependant si vous souhaitez  modifier leur cible vous pouvez le faire ainsi
+
+1. Dans le dossier *src*, ouvrez le fichier *layout-home.js*. 
+2. Editez ce fichier.
+3 remplacez les liens correspondant aux boutons 1 ou 2 par vos propre lien:
+	<a href="#multibao/contributions/blob/master/page/commencer_ici.md">${MULTIBAO.BUTTON1}</a>
+    <a href="#multibao/documentation/blob/master/README.md">${MULTIBAO.BUTTON2}</a>
+4. N'oubliez pas de modifier le texte apparaissant dans le bouton comme décrit dans la section précédente.
+
+
 ### Pour modifier les dépôts ou dossiers ou fichiers à faire apparaître via la page d'accueil
 
 1. Éditez le fichier *config.js*

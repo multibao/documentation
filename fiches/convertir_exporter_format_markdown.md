@@ -38,8 +38,9 @@ Vous pouvez maintenant téléverser votre fichier markdown issu du hackpad sur g
 
 1. Enregistrez votre document word sous la forme d'un fichier .docx.
 2. [Installez le logiciel pandoc](http://pandoc.org/installing.html)
-3. Sélectionnez dans votre terminal où se trouve votre fichier
-4. Utilisez la ligne de commande suivante: *pandoc nomdufichier.docx -f docx -t markdown_github -s -o nomdufichier.md*
+3. Ouvrez une [invite de commande](https://fr.wikipedia.org/wiki/Interpr%C3%A9teur_de_commandes) sur votre ordinateur
+4. Sélectionnez dans votre terminal l'empalcement où se trouve le fichier .docx que vous venez d'enregister
+5. Utilisez la ligne de commande suivante: *pandoc nomdufichier.docx -f docx -t markdown_github -s -o nomdufichier.md*
 
 ## Autres conversions vers le format markdown: *odt*, *mediawiki*, *txt*, ...
 

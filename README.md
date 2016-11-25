@@ -1,9 +1,3 @@
----
-title: Guide d'utilisation
-description: Comment contribuer à multiBàO ? Réponse ici.
-image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plekhanov_cc-by-sa.jpg?raw=true
----
-
 # Guide d'utilisation
 
 * [créer ma première fiche et la visionner avec multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_fiche_multibao.md) 
@@ -11,8 +5,6 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ilya_plek
 * [présenter une fiche multiBàO sur mon blog ](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md)
 * [créer ma plateforme web multibao personnalisée](http://www.multibao.org/#multibao/documentation/blob/master/fiches/creer_ma_plateforme_personnalisee.md)
 * Rendre nos documentations numériques [utiles](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_utiles.md), [agréables](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_agreables.md) et [réutilisables](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_reutilisables.md)
-
----
 
 # Foire Aux Questions
 

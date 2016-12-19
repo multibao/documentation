@@ -69,13 +69,9 @@ Les blocs de code sont soit clôturés par des lignes avec trois «back-ticks» 
     3 Asterix
     ***
     
-    3 Underscores
     
-    ___
 
 Ce qui rend :
 ---
 
 ***
-
-___

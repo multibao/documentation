@@ -38,30 +38,44 @@ s'écrit avec > "texte..." puis passer un ligne pour arréter le mise ne forme d
 
 ## Code
 
-Insérer du code informatique lisible et réutilisable dans sa fiche :`
-{% for post in site.posts %}
-{% for cat in post.categories %}
-{% if cat == page.category %}
+Insérer du code informatique lisible et réutilisable dans sa fiche :
+
+    {% for post in site.posts %}
+    {% for cat in post.categories %}
+    {% if cat == page.category %}
 
 
 
-<div class="post postContent">
-  <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
-  </div>
-  <div class="postTag">
-    {{post.tag}}
-  </div>
-  <br>
-  <div class="postTitle">
-  <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-  </div>
-  <div class="postExt">
-    {{post.excerpt}}
-  </div>
-</div>
-{% endif %}
-{% endfor %}
+    <div class="post postContent">
+    <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </div>
+    <div class="postTag">
+    </div>
+    
+    {% endif %}
+    {% endfor %}
 
-{% endfor %}`
+    {% endfor %}
 
-s'écrit entre les symboles  ``` {mon code} ```
+Les blocs de code sont soit clôturés par des lignes avec trois «back-ticks» <code>```</code>, soit décalés de quatre espaces depuis le début de la ligne. Une recommande eut être en utilisant les blocs de code clôturé --, ils sont plus faciles à mettre ne place dans la fiche et ils soutiennent la mise en évidence de syntaxe.
+
+
+## Ligne Horizontale
+
+
+    3 Tirets 
+    ---
+   
+    3 Asterix
+    ***
+    
+    3 Underscores
+    
+    ___
+
+Ce qui rend :
+---
+
+***
+
+___

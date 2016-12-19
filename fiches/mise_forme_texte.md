@@ -29,3 +29,39 @@ s'écrit
 ## Lien hypertexte
 
 [lien vers multiBàO](http://multibao.org) s'écrit \[lien vers multiBàO\]\(http://multibao.org)
+
+## Citation
+
+> « Je veux être un homme heureux, parce que c’est ainsi que l’on fait le bonheur autour de soi. » Sohan Kalim 
+
+s'écrit avec > "texte..." puis passer un ligne pour arréter le mise ne forme de citation
+
+## Code
+
+Insérer du code informatique lisible et réutilisable dans sa fiche :`
+{% for post in site.posts %}
+{% for cat in post.categories %}
+{% if cat == page.category %}
+
+
+
+<div class="post postContent">
+  <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+  </div>
+  <div class="postTag">
+    {{post.tag}}
+  </div>
+  <br>
+  <div class="postTitle">
+  <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+  </div>
+  <div class="postExt">
+    {{post.excerpt}}
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+
+{% endfor %}`
+
+s'écrit entre les symboles  ``` {mon code} ```

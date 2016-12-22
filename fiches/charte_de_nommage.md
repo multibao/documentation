@@ -1,14 +1,13 @@
 ---
 author: ""
-description: null
+description: le B.a.-ba de ce que je dois savoir pour nommer un fichier
 published: false
-title: Untitled
+title: Charte de nommage
 ---
 
 
 
 # Charte de nommage, ou le B.a.-ba de ce que je dois savoir pour nommer un fichier
-
 > La charte de nommage doit être respectée lorsque vous nommez une image, une fiche, un dossier, un dépôt de fiches, une organisation ... Cette section concerne tout contributeur.
 
 ## Utiliser des caractères normaux uniquement

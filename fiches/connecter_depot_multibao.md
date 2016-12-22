@@ -1,6 +1,13 @@
-## Faire apparaître notre dépôt de fiches sur multiBàO
+---
+author: ""
+description: Faire apparaître son dépôt de fiches sur multiBàO
+published: false
+title: Afficher ses ressources
+---
 
-> La grande question: qu'est-ce qui fait qu'une équipe ou qu'un individu est affiché comme contributeur sur la page d'accueil? 
+## Faire apparaître son dépôt de fiches sur multiBàO
+
+> La grande question: qu'est-ce qui fait qu'une équipe ou qu'un individu est affiché comme contributeur sur la page d'accueil ? 
 
 Sont affichés sur la page d'accueil:
 

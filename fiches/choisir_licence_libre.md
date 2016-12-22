@@ -1,3 +1,11 @@
+---
+author: ""
+description: Les licences libres enrichissent vos droits d'auteur
+published: false
+title: Choisir une licence
+---
+
+
 # Choisir une licence libre 
 
 On ne peut pas partager ses ressources sur multiBàO... et en même temps les publier sous copyright.

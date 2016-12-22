@@ -1,3 +1,10 @@
+---
+author: ""
+description: Un dépôt de fiches collectif, une expérience humaine avant d'être technique
+published: false
+title: Choisir ses collaborateurs
+---
+
 # Un dépôt de fiches collectif, une expérience humaine avant d'être technique
 
 ## La jouer équipe ou solo

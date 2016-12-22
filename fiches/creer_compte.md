@@ -1,3 +1,10 @@
+---
+author: ""
+description: en quelques instants
+published: false
+title: Créer un compte utilisateur github
+---
+
 # Créer un compte utilisateur
 
 * Aller sur www.github.com

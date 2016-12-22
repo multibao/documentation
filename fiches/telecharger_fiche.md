@@ -8,7 +8,7 @@ Ouvrez un nouveau document Word, OpenOffice ou LibreOffice et collez. La mise en
 
 ## Conversion via http://pandoc.org/try vers une trentaine de formats web 
 
-![Pandoc_try](https://framapic.org/WCKY3EmBJqNP/NqxlY30GLvUE)
+![Pandoc try](https://framapic.org/5hWvOI9UUZV5/Kt8aBjYzzF2x)
 
 * Rendez vous sur la fiche multiBàO que vous souhaitez convertir.
 * Ouvrez l'éditeur. 

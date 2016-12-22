@@ -1,3 +1,11 @@
+---
+author: ""
+description: Pour que vos contibution soient comprises par leurs autres contributeurs
+published: false
+title: Commenter votre contribution
+---
+
+
 # Commenter votre modification ou votre ajout
 
 * soit lorsque vous éditez votre fiche en utilisant http://github.com
@@ -20,10 +28,8 @@ Exemples:
 
 C'est en bas de page, juste avant de valider vos modifications. 
 
-![commit](https://framapic.org/OnDsD7ExS1YI/TCfh7TNH7lPb.png)
+![](https://framapic.org/nWt2SmfNEI71/1kBKqRsEzofI)
 
 ## Sur l'éditeur de multiBàO
 
 C'est sur le côté droit, juste avant de valider vos modifications. 
-
-![commitprose](https://framapic.org/D91XmrLdOSkm/NNFhqjtGvui9.png)

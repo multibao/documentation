@@ -1,8 +1,15 @@
+---
+author: ""
+description: Pour des ressources et des écrits faciles à comprendre par les utilisateurs
+published: false
+title: Définir l'architecture de son dépôt de fiches
+---
+
 # Définir l'architecture de son dépôt de fiches
 
 ## Utilisation des dossiers et sous dossiers
 
-Si votre dépôt comporte plus de 7 fiches, nous vous recommandons de les répartir dans des dossiers, voire dans des sous dossiers. Cela rendra l'exploration plus légère pour l'utilisateur.
+Si votre dépôt comporte plus de 7 fiches, nous vous recommandons de les répartir dans des dossiers, voir dans des sous dossiers. Cela rendra l'exploration plus légère pour l'utilisateur.
 
 *Voir : [Créer des dossiers et des sous dossiers](http://multibao.org/#multibao/documentation/blob/master/fiches/creer_dossiers.md).*
 

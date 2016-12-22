@@ -1,3 +1,10 @@
+---
+author: ""
+description: je crée ma prmeière fiche en toute facilité et simplicité
+published: false
+title: Créer dépôt de fiches
+---
+
 # Créer un dépôt de fiches
 
 Connectez vous avec votre compte utilisateur sur http://github.com.

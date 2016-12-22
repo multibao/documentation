@@ -5,7 +5,6 @@ description: >-
   ...) en format
   [markdown](http://multibao.org/#multibao/documentation/blob/master/fiches/mise_forme_texte.md)
   .md.
-image_url: null
 published: true
 ---
 

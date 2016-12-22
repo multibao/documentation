@@ -1,3 +1,9 @@
+---
+author: ""
+description: Une feuille numérique sur laquelle on écrit ...
+published: false
+title: Créer un fiche dans Multibao
+---
 
 ## C'est quoi une fiche? 
 Une feuille numérique sur laquelle on écrit des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par odre chronologique dans des boîtes.

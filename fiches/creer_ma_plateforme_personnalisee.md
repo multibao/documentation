@@ -63,8 +63,11 @@ Les liens des boutons désignés comme  MULTIBAO.BUTTON1 et MULTIBAO.BUTTON2 son
 1. Dans le dossier *src*, ouvrez le fichier *layout-home.js*. 
 2. Editez ce fichier.
 3. remplacez les liens correspondant aux boutons 1 ou 2 par vos propre lien:
- <a href="#multibao/contributions/blob/master/page/commencer_ici.md"${MULTIBAO.BUTTON1}</a
- <a href="#multibao/documentation/blob/master/README.md"${MULTIBAO.BUTTON2}</a>
+
+    <a href="#multibao/contributions/blob/master/page/commencer_ici.md"${MULTIBAO.BUTTON1}</a>
+   
+    <a href="#multibao/documentation/blob/master/README.md"${MULTIBAO.BUTTON2}</a>
+ 
 4. N'oubliez pas de modifier le texte apparaissant dans le bouton comme décrit dans la section précédente.
 
 

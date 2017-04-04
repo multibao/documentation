@@ -1,7 +1,8 @@
 ---
 title: 3eme test
 description: J'apprends à écrire des titres
-image_url: 
+image_url: null
+published: true
 ---
 
 # J'écris des titres
@@ -18,7 +19,7 @@ Le tennis de table (ou « ping-pong » dans le langage courant) est un sport de 
 
 ### Une origine asiatique
 
-Il existe plusieurs dénominations de ce sport à travers le monde : ping pang qiu (乒乓球, pīng pāng qiú, « balle ping-pang »), en République populaire de Chine et République de Chine (Taïwan), les caractères sont assez particuliers puisqu'ils représentent des raquettes face à face. On peut également dire en Chine (卓球, zhuō qiú, « balle de table »), qui ce prononce au Japon takkyū (卓球)
+Il existe plusieurs dénominations de ce sport à travers le monde : ping pang qiu (乒乓球, pīng pāng qiú, « balle ping-pang »), en République populaire de Chine et République de Chine (Taïwan), les caractères sont assez particuliers puisqu'ils représentent des raquettes face à face. On peut également dire en Chine (卓球, zhuō qiú, « balle de table »), qui se prononce au Japon takkyū (卓球)
 
 ### Ping pong ou Tennis de table? 
 

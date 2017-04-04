@@ -8,7 +8,7 @@ published: true
 # Ajouter une phrase à cette fiche
 
 Tu vois le bouton "éditer" en haut à gauche de la fiche?
-C'est le logo avec un un crayon.
+C'est le logo avec un crayon.
 Clique dessus.
 L'éditeur va s'ouvrir.
 Avant de contribuer, authentifie toi en cliquant sur le bouton vert en bas à droite de l'éditeur.

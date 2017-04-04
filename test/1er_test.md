@@ -17,7 +17,7 @@ Identifiant: lanonyme
 Mot de passe: lanonyme777
 
 Exercice: ajoute une phrase à la suite de ce paragraphe:
-> J'ai fait du skate, c'est là que je me suis rendu compte que je ne savais pas en faire. Du coup j'ai demandé de l'aide à quelqu'un qui sait faire du skate de m'apprendre à en faire sur l'eau. Et bien, ça glissait comme sur des roulettes. C'est pratique pour se déplacer!
+> J'ai fait du skate, c'est là que je me suis rendu compte que je ne savais pas en faire. Du coup j'ai demandé de l'aide à quelqu'un qui sait faire du skate de m'apprendre à en faire sur l'eau. Et bien, ça glissait comme sur des roulettes. C'est pratique pour se déplacer! Mais quand on veut pas se déplacer, c'est pas confort !
 
 
 Phrases des visiteurs : 

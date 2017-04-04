@@ -31,6 +31,6 @@ Je me promène sur multiBàO et je vois une faute d'orthographe et de grammaire.
 * Dans la partie droite du fichier, cliquer sur le logo éditer.
 ![editer](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 * Réaliser les changements souhaités
-* Avant de sauvegarder, expliquer dans "commit" les changements que vous avez réalisé. 
+* Avant de sauvegarder, expliquer dans "commit" les changements que vous avez réalisé 
 * Sauvegardez en cliquant sur "Propose this file"
 * L'équipe animatrice du dépôt de fiches recevra un e-mail lui proposant la modification. Si elle valide votre proposition de modification, la fiche sera automatiquement mise à jour.

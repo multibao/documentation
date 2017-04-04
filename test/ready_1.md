@@ -1,7 +1,8 @@
 ---
 title: Ready ? Proposer des modifications
 description: Proposer des modifications à une fiche ... qui n'est pas à moi/nous
-image_url: 
+image_url: null
+published: true
 ---
 
 # Je modifie des fiches ou propose mes modifications
@@ -10,7 +11,7 @@ image_url:
 
 **Q** : Donc si je me promène sur n'importe quelle fiche et que je veux ajouter quelque chose, je peux le faire?
 **R** : Oui. Et il y a deux cas de figure :
- * si tu es sur une fiche, que tu ouvres l'éditeur, que tu modifies le texte et que tu enregistres > la communauté qui gère le dépôt de fiches recevra un e-mail proposant d'accepter ou de refuser ou non votre modification. S'ils acceptent ta modification elle sera publiée sur multiBàO.
+ * si tu es sur une fiche, que tu ouvres l'éditeur, que tu modifies le texte et que tu enregistres > la communauté qui gère le dépôt de fiches recevra un e-mail proposant d'accepter ou de refuser ta modification. S'ils acceptent ta modification elle sera publiée sur multiBàO.
  * si tu es contributeur déclaré d'un dossier de fiches, tu modifies le texte > la modification est automatiquement prise en compte. 
  
 **Q** : Si j'ai bien compris, je n'ai pas de compte multiBàO pour l'instant.

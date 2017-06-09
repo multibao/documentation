@@ -50,6 +50,7 @@
 
 ### Intervenir sur multiBàO depuis mon ordinateur?
 
+* [synchroniser des contenus entre un site wordpress et multibao](http://www.multibao.org/#lilianricaud/tutoriels/blob/master/synchronisation_wordpress-github-multibao.md)
 * [utiliser git pour travailler sur mon dépôt depuis mon ordinateur](http://rogerdudler.github.io/git-guide/index.fr.html)
 * [installer multiBàO sur mon serveur local](https://github.com/multibao/site)
 

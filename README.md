@@ -35,9 +35,9 @@
 
 ### Administrer un dépôt de fiches?
 
-* [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/multibao/#multibao/documentation/blob/master/fiches/choisir_ses_collaborateurs.md)
-* [inviter et choisir les droits de modification au dépôt](http://multibao.org/multibao/#multibao/documentation/blob/master/fiches/gerer_droits_depot.md)
-* [transférer un dépôt d'un utilisateur vers une organisation](http://www.multibao.org/multibao/#multibao/documentation/blob/master/fiches/transferer_depot.md)
+* [se coordonner à plusieurs pour entretenir un dépôt de fiches](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_ses_collaborateurs.md)
+* [inviter et choisir les droits de modification au dépôt](http://multibao.org/#multibao/documentation/blob/master/fiches/gerer_droits_depot.md)
+* [transférer un dépôt d'un utilisateur vers une organisation](http://www.multibao.org/#multibao/documentation/blob/master/fiches/transferer_depot.md)
 
 ### Apparaître sur la page d'accueil ?
 
